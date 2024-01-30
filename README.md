@@ -89,27 +89,42 @@ Before running the scripts, ensure you have R and RStudio installed on your comp
 2.	`statistical_analyses/output/disequilibrium_perc90_in0.csv` from 04a
 3.	`statistical_analyses/output/disequilibrium_perc_90_in0_univariate.csv` 04b
 
-### Script 05 and 06 - Statistical Analyses
+## Scripts 05 and 06 - Statistical Analyses
 
 - **Purpose**: Performs statistical analyses to obtain main text figures 3 to 6.
-- **Required tables**: Various outputs from previous scripts (see detailed list in the provided information).
+- **Advice**: Both Scripts 05 and 06 can be completely run with these provided tables obtained from the rest of the R scripts. They allow obtaining main text figures 3 to 6.
+- **Required tables**:
+  - `./statistical_analyses/Output/disequilibrium_mode_centroid.csv`
+  - `./statistical_analyses/Output/disequilibrium_nurse.csv`
+  - `./statistical_analyses/Output/disequilibrium_perc90_in0.csv`
+  - `./statistical_analyses/Output/disequilibrium_perc95_in0.csv`
+  - `./statistical_analyses/Output/explanatory_vars.csv`
+  - `./statistical_analyses/Output/Facilitation_ClimaticDisequilibrium_chisq.csv`
+  - `./statistical_analyses/Output/change_abundances.csv`
+  - `./statistical_analyses/Output/disequilibrium_centroid_univariate.csv`
+  - `./statistical_analyses/Output/disequilibrium_mode_univariate.csv`
+  - `./statistical_analyses/Output/disequilibrium_perc_90_in0_univariate.csv`
+  - `./statistical_analyses/Output/disequilibrium_perc_95_in0_univariate.csv`
 
 ## Running the Scripts
 
 Each script can be run independently, provided the required files are in place. It is advised to follow the script order as listed for a smooth workflow.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/yourusername/niche-modelling-research/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/niche-modelling-research/LICENSE.md) file for details.
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0). This license allows others to share, copy and redistribute the material in any medium or format, and adapt, remix, transform, and build upon the material for any purpose. 
 
-## Acknowledgments
+You can view a copy of this license at [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/).
 
-- Mention any collaborators, data providers, or any other acknowledgments.
+### How to Cite This Work
 
----
+If you use this work, or any part of it, in your research or project, please provide appropriate credit to the authors and a link to the original source and the license. Here is a suggested format for citation:
 
-Make sure to replace placeholders (like `https://github.com/yourusername/niche-modelling-research.git`) with actual links and details relevant to your project. This README template is designed to be comprehensive and user-friendly,
+- Perez-Navarro MA, Lloret F, Molina-Venegas R, Alcantara JM, Verdu M. (2024). [Plant canopies promote climatic disequilibrium in Mediterranean recruit communities].
+
+Please replace the placeholders with your project's specific details.
+
+
+
+
+
