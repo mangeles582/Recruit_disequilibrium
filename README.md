@@ -11,7 +11,7 @@ Before running the scripts, ensure you have R and RStudio installed on your comp
 ### Prerequisites
 
 - R and RStudio
-- Required R packages: (list any R packages needed, e.g., `dplyr`, `sf`, `raster`)
+- Required R packages: (dismo, stringr,ggplot, ggmap, maps, tidyverse, readr, magrittr, rgbif, taxize, forcats, sp, raster, ade4, RColorBreewer, ks, data.table, gridExtra, viridis, lsmeans, nlme, lme4, lmerTest, MASS, DHARMa, effectsize, effects, MuMIn, parameters)
 - Download and place climatic layers from CHELSA as described in section 1.2. A download script is included in the R script files.
 
 ### Installation
