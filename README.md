@@ -37,38 +37,57 @@ Before running the scripts, ensure you have R and RStudio installed on your comp
 - **Purpose**: Filters the downloaded species occurrences.
 - **Required to run**:
   - Climatic layers from CHELSA (see section 1.2 for download instructions).
-  - Each species dataframe from `./niche_modelling/occurrences/unclean/gbif_` or directly from `0061950-200613084148143.csv` which can be downloaded from [GBIF](https://doi.org/10.15468/dl.9c6h5v).
+  - Dataframe containing all species occurrences (`./niche_modelling/occurrences/unclean/0061950-200613084148143.csv`) previously obtained in script 01 which must be directly downloaded from [GBIF](https://doi.org/10.15468/dl.9c6h5v).
 
 ### Script 03a - Multivariate Niche Modelling
 
-- **Advice**: Run from section 4. The rest may take a few hours, especially on slow computers. Heavy files (`dudi_sp` and `all_sp_climate`) are not present.
+- **Purpose**: Characterizes each species niches in the multivariate space.
+- **Advice**: Run from section 4. The rest may take a few hours, especially on slow computers. Heavy files (`all_sp_climate.csv`) are not present and can be obtained running 02 script.
 - **Required to run**:
-  1. `field_raw_data`
-  2. `Dudi_sp`
-  3. `perc95_niche_chelsa_noseasonality`
-  4. `all_sp_climate.csv`
+  1. `niche_modelling/data/field_raw_data.csv`
+  2. `niche_mokdelling/occurrences/clean/all_sp_climate.csv`
 
 ### Script 03b - Univariate Niche Modelling
 
-- **Advice**: Run from section 4. The rest may take a few hours, especially on slow computers.
+- **Purpose**: Characterizes each species niches in the univariate space.
+- **Advice**: Run from section 3. The rest may take a few hours, especially on slow computers. Heavy files (`all_sp_climate.csv`) are not present and can be obtained running 02 script.
 - **Required to run**:
-  1. `field_raw_data`
-  2. `populations_climate`
-  3. `perc95_niche_chelsa_univariate`
-  4. `all_sp_climate.csv`
+  1. `niche_modelling/data/field_raw_data.csv`
+  2. `niche_modelling/data/populations_climate.csv`
+  3. `niche_modelling/output/perc95_niche_chelsa_univariate.csv`
+  4. `niche_mokdelling/occurrences/clean/all_sp_climate.csv`
 
 ### Script 04a - Multivariate CD Characterization
 
-- **Purpose**: Characterizes centroid distances in a multivariate niche modelling context.
+- **Purpose**: Characterizes centroid distances in a multivariate niche space.
+- **Advice**: Only section 3 (for niche surface discarding lowest 95 percentile) is required to obtain tables for later analyses.
 - **Required tables**: 
-  - `Niche_modelling/Output/centroid_distances.csv`
-  - `Niche_modelling/Output/perc95_distances_in0.csv`
-  - `Niche_modelling/Output/perc90_distances_in0.csv`
+  1. `niche_modelling/output/centroid_distances.csv`
+  2. `niche_modelling/output/perc95_distances_in0.csv`
+  3. `niche_modelling/output/perc90_distances_in0.csv`
 
 ### Script 04b - Univariate CD Characterization
-
 - **Purpose**: Characterizes centroid distances in a univariate niche modelling context.
+- **Advice**: Only section 3 (for niche surface discarding lowest 95 percentile) is required to obtain tables for later analyses. In addition, the script is prepared to run all biovariables, but only bio01, bio06 and bio12 are required for ulterior analyses.
 - **Required tables**: Various outputs from scripts 03b and 04a (see detailed list in the provided information).
+- Based on centroid:
+1.	`niche_modelling/Output/centroid_distances_univariate.csv` obtained from 03b
+2.	`niche_modelling/Output/perc95_distances_in0.csv` obtained from 03b
+3.	`statistical_analyses/Output/disequilibrium_nurse.csv` obtained from 04a
+4.	`statistical_analyses/Output/disequilibrium_centroid_univariate.csv` obtained from 04b
+- Based on mode:
+1.	`niche_modelling/output/centroid_distances_univariate.csv` from 03b
+2.	`niche_modelling/output/perc95_distances_in0.csv` from 03b
+3.	`statistical_analyses/output/disequilibrium_mode_centroid.csv` from 04a
+4.	`statistical_analyses/output/disequilibrium_mode_univariate.csv` from 04b
+- Based on niche surface 95 perc:
+1.	`niche_modelling/output/perc95_distances_in0_univariate.csv`from 03b
+2.	`statistical_analyses/output/disequilibrium_perc95_in0.csv` from 04a
+3.	`statistical_analyses/output/disequilibrium_perc_95_in0_univariate.csv` 04b
+- Based on niche surface 90 perc:
+1.	`niche_modelling/output/perc90_distances_in0_univariate.csv` from 03b
+2.	`statistical_analyses/output/disequilibrium_perc90_in0.csv` from 04a
+3.	`statistical_analyses/output/disequilibrium_perc_90_in0_univariate.csv` 04b
 
 ### Script 05 and 06 - Statistical Analyses
 
