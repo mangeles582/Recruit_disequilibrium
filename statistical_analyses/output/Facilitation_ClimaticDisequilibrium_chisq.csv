@@ -1,0 +1,437 @@
+Community,facilitated_species,open_obs (individuals),canopy_obs (individuals),open_exp (% cover),canopy_exp (% cover),Lat,Long,Site,% facilitated,Chi2,Association,Interaction
+1,Ulex_parviflorus_parviflorus,9,8,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",47.05882353,1.917543271,Positive,Neutral
+1,Thymus_granatensis_granatensis,14,3,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",17.64705882,11.27098724,Negative,Competition
+1,Cistus_clusii_clusii,2,3,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",60,12.04941253,Positive,Facilitation
+1,Rosmarinus_officinalis,2,3,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",60,12.04941253,Positive,Facilitation
+1,Fumana_ericoides,65,6,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",8.450704225,23.4249576,Negative,Competition
+1,Rhamnus_saxatilis,0,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+1,Coris_monspeliensis_monspeliensis,0,1,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",100,98.41281258,Positive,Facilitation
+1,Thymelaea_tartonraira_austroiberica,1,1,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",50,3.455703145,Positive,Facilitation
+1,Linum_suffruticosum,0,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+1,Arenaria_armerina_armerina,70,8,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",10.25641026,20.69162065,Negative,Competition
+1,Polygala_rupestris,0,4,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",100,98.41281258,Positive,Facilitation
+1,Dianthus_brachyanthus,4,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",0,38.47,Negative,Competition
+1,Paronychia_aretioides,0,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+1,Paronychia_suffruticosa_suffruticosa,1,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",0,38.47,Negative,Competition
+1,Quercus_rotundifolia,2,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",0,38.47,Negative,Competition
+1,Lavandula_lanata,0,1,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",100,98.41281258,Positive,Facilitation
+1,Alyssum_serpyllifolium_serpyllifolium,0,0,61.53,38.47,37.081306,-3.536167,"Sierra Nevada, low-elevation dolomites (Trevenque 1)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+2,Cistus_clusii_clusii,8,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",0,44.74,Negative,Competition
+2,Echinospartum_boissier,2,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",0,44.74,Negative,Competition
+2,Thymus_granatensis_granatensis,11,8,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",42.10526316,0.155159549,Negative,Neutral
+2,Fumana_ericoides,52,21,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",28.76712329,5.702565723,Negative,Competition
+2,Arenaria_armerina_armerina,39,1,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",2.5,39.87969602,Negative,Competition
+2,Anthyllis_tejedensis_tejedensis,9,7,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",43.75,0.021906571,Negative,Neutral
+2,Alyssum_serpyllifolium_serpyllifolium,3,2,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",40,0.502181493,Negative,Neutral
+2,Linum_suffruticosum,1,2,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",66.66666667,10.7460597,Positive,Facilitation
+2,Paronychia_suffruticosa_suffruticosa,2,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",0,44.74,Negative,Competition
+2,Thymelaea_tartonraira_austroiberica,3,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",0,44.74,Negative,Competition
+2,Ulex_parviflorus_parviflorus,2,2,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",50,0.618408583,Positive,Neutral
+2,Rosmarinus_officinalis,4,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",0,44.74,Negative,Competition
+2,Quercus_rotundifolia,4,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",0,44.74,Negative,Competition
+2,Polygala_rupestris,0,5,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",100,68.25363433,Positive,Facilitation
+2,Helianthemum_cinereum_rotundifolium,2,1,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",33.33333333,2.908181592,Negative,Competition
+2,Sideritis_incana,0,0,55.26,44.74,37.079667,-3.507389,"Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+3,Ulex_parviflorus_parviflorus,11,1,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",8.333333333,20.2231455,Negative,Competition
+3,Thymelaea_tartonraira_austroiberica,9,1,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",10,17.76532951,Negative,Competition
+3,Helianthemum_apenninum_suffruticosum,13,0,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",0,34.9,Negative,Competition
+3,Helianthemum_cinereum_rotundifolium,51,2,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",3.773584906,27.76085148,Negative,Competition
+3,Alyssum_serpyllifolium_serpyllifolium,54,6,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",10,17.76532951,Negative,Competition
+3,Arenaria_armerina_armerina,2,0,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",0,34.9,Negative,Competition
+3,Erinacea_anthyllis_anthyllis,3,1,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",25,2.808309456,Negative,Competition
+3,Fumana_ericoides,1,0,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",0,34.9,Negative,Competition
+3,Dianthus_brachyanthus,7,0,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",0,34.9,Negative,Competition
+3,Ononis_pusilla_pusilla,4,0,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",0,34.9,Negative,Competition
+3,Thymus_granatensis_granatensis,0,1,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",100,121.4329513,Positive,Facilitation
+3,Linum_suffruticosum,1,0,65.1,34.9,37.077306,-3.481778,"Sierra Nevada, high-elevation dolomites (Trevenque 3)  ",0,34.9,Negative,Competition
+4,Genista_umbellata_equisetiformis,12,5,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",29.41176471,15.48772189,Negative,Competition
+4,Ulex_parviflorus_parviflorus,4,0,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",0,59.86,Negative,Competition
+4,Lavandula_stoechas,10,8,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",44.44444444,3.969919029,Negative,Competition
+4,Cistus_albidus,27,24,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",47.05882353,2.737556282,Negative,Competition
+4,Thymus_mastichina_mastichina,5,7,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",58.33333333,0.038936036,Negative,Neutral
+4,Helichrysum_italicum_serotinum,2,2,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",50,1.624116271,Negative,Neutral
+4,Ruta_montana,3,2,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",40,6.589034414,Negative,Competition
+4,Quercus_rotundifolia,5,2,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",28.57142857,16.35440531,Negative,Competition
+4,Ptilostemon_hispanicus,0,0,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+4,Clematis_flammula,1,1,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",50,1.624116271,Negative,Neutral
+4,Teucrium_compactum,0,1,40.14,59.86,37.02325,-3.008972,"Sierra Nevada, low-elevation mica schists (Ragua 1)  ",100,26.91646509,Positive,Facilitation
+5,Genista_cinerea,6,4,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",40,7.155526532,Negative,Competition
+5,Thymus_mastichina_mastichina,10,1,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",9.090909091,44.0459053,Negative,Competition
+5,Thymus_zygis_gracilis,6,2,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",25,21.1377838,Negative,Competition
+5,Quercus_rotundifolia,0,3,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",100,25.15454082,Positive,Facilitation
+5,Teucrium_compactum,1,3,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",75,3.280054214,Positive,Facilitation
+5,Adenocarpus_decorticans,5,2,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",28.57142857,17.13812578,Negative,Competition
+5,Genista_umbellata_equisetiformis,1,0,39.13,60.87,37.060722,-3.011806,"Sierra Nevada, mid-elevation mica schists (Ragua 2)  ",0,60.87,Negative,Competition
+6,Cytisus_galianoi,51,8,54.99,45.01,37.102278,-3.024278,"Sierra Nevada, high-elevation mica schists (Ragua 3)  ",13.55932203,21.97611963,Negative,Competition
+6,Thymus_zygis_gracilis,1,1,54.99,45.01,37.102278,-3.024278,"Sierra Nevada, high-elevation mica schists (Ragua 3)  ",50,0.553212619,Positive,Neutral
+6,Helichrysum_italicum_serotinum,2,5,54.99,45.01,37.102278,-3.024278,"Sierra Nevada, high-elevation mica schists (Ragua 3)  ",71.42857143,15.50635228,Positive,Facilitation
+6,Genista_versicolor,6,1,54.99,45.01,37.102278,-3.024278,"Sierra Nevada, high-elevation mica schists (Ragua 3)  ",14.28571429,20.97271123,Negative,Competition
+7,Rosmarinus_officinalis,9,5,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",35.71428571,0.265625953,Negative,Neutral
+7,Thymus_granatensis_granatensis,8,1,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",11.11111111,19.87902849,Negative,Competition
+7,Ulex_parviflorus_parviflorus,6,13,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",68.42105263,22.34066749,Positive,Facilitation
+7,Cistus_clusii_clusii,0,1,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",100,95.80130747,Positive,Facilitation
+7,Argyrolobium_zanonii_zanonii,1,9,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",90,66.99575905,Positive,Facilitation
+7,Coris_monspeliensis_monspeliensis,4,4,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",50,3.147826869,Positive,Facilitation
+7,Fumana_ericoides,13,2,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",13.33333333,16.82993436,Negative,Competition
+7,Helianthemum_syriacum,9,1,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",10,21.49871307,Negative,Competition
+7,Lavandula_lanata,0,1,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",100,95.80130747,Positive,Facilitation
+7,Polygala_rupestris,0,1,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",100,95.80130747,Positive,Facilitation
+7,Quercus_rotundifolia,1,1,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",50,3.147826869,Positive,Facilitation
+7,Halimium_atriplicifolium_atriplicifolium,1,0,61.07,38.93,37.0375,-3.573444,"Sierra Nevada, low-elevation dolomites (Padul 1) ",0,38.93,Negative,Competition
+8,Rosmarinus_officinalis,2,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Ulex_parviflorus_parviflorus,7,5,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",41.66666667,2.11346688,Positive,Facilitation
+8,Fumana_ericoides,9,3,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",25,2.060048077,Negative,Competition
+8,Thymus_granatensis_granatensis,6,4,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",40,1.356923077,Positive,Neutral
+8,Coris_monspeliensis_monspeliensis,1,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Cistus_clusii_clusii,9,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Dianthus_brachyanthus,3,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Arenaria_armerina_armerina,2,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Linum_suffruticosum,1,1,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",50,8.400192308,Positive,Facilitation
+8,Paronychia_suffruticosa_suffruticosa,1,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Thymelaea_tartonraira_austroiberica,1,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+8,Anthyllis_tejedensis_tejedensis,1,4,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",80,65.58769231,Positive,Facilitation
+8,Alyssum_serpyllifolium_serpyllifolium,2,1,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",33.33333333,8.54701E-05,Positive,Neutral
+8,Helianthemum_apenninum_suffruticosum,3,0,66.72,33.28,37.043028,-3.526278,"Sierra Nevada, mid-elevation dolomites (Padul 2)  ",0,33.28,Negative,Competition
+9,Salvia_lavandulifolia_vellerea,3,3,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",50,0.053341076,Negative,Neutral
+9,Teucrium_similatum,23,21,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",47.72727273,0.29938722,Negative,Neutral
+9,Genista_cinerea,3,1,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",25,13.75833527,Negative,Competition
+9,Bupleurum_spinosum,0,3,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",100,45.23336431,Positive,Facilitation
+9,Santolina_chamaecyparissus_chamaecyparissus,1,0,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",0,51.66,Negative,Competition
+9,Thymus_mastichina_mastichina,2,0,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",0,51.66,Negative,Competition
+9,Rhamnus_saxatilis,2,5,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",71.42857143,7.564777707,Positive,Facilitation
+9,Lavandula_lanata,3,6,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",66.66666667,4.359273024,Positive,Facilitation
+9,Linum_suffruticosum,7,7,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",50,0.053341076,Negative,Neutral
+9,Teucrium_webbianum,8,2,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",20,19.40293457,Negative,Competition
+9,Ulex_parviflorus_parviflorus,7,6,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",46.15384615,0.586870503,Negative,Neutral
+9,Staehelina_dubia,1,5,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",83.33333333,19.41928077,Positive,Facilitation
+9,Helianthemum_cinereum_rotundifolium,16,8,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",33.33333333,6.501484923,Negative,Competition
+9,Fumana_ericoides,1,3,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",75,10.54501742,Positive,Facilitation
+9,Rosmarinus_officinalis,1,6,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",85.71428571,22.44859418,Positive,Facilitation
+9,Anthyllis_tejedensis_tejedensis,0,2,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",100,45.23336431,Positive,Facilitation
+9,Alyssum_serpyllifolium_serpyllifolium,0,0,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+9,Arenaria_armerina_armerina,2,0,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",0,51.66,Negative,Competition
+9,Ptilostemon_hispanicus,0,1,48.34,51.66,37.139861,-3.481917,"Sierra Nevada, low-elevation limestones (Granada 1)  ",100,45.23336431,Positive,Facilitation
+10,Rosmarinus_officinalis,43,10,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",18.86792453,31.58931844,Negative,Competition
+10,Teucrium_similatum,5,2,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",28.57142857,19.40427387,Negative,Competition
+10,Salvia_lavandulifolia_vellerea,1,2,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",66.66666667,0.134379946,Positive,Neutral
+10,Helianthemum_cinereum_rotundifolium,29,30,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",50.84745763,2.607744726,Negative,Competition
+10,Coris_monspeliensis_monspeliensis,2,6,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",75,1.98913712,Positive,Facilitation
+10,Linum_suffruticosum,7,4,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",36.36363636,11.75816263,Negative,Competition
+10,Lavandula_lanata,10,20,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",66.66666667,0.134379946,Positive,Neutral
+10,Fumana_procumbens,1,4,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",80,4.147907123,Positive,Facilitation
+10,Ulex_parviflorus_parviflorus,3,4,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",57.14285714,0.682809756,Negative,Neutral
+10,Argyrolobium_zanonii_zanonii,0,6,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",100,20.62735488,Positive,Facilitation
+10,Helianthemum_apenninum_suffruticosum,5,3,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",37.5,10.80228428,Negative,Competition
+10,Thymus_mastichina_mastichina,3,1,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",25,23.54545968,Negative,Competition
+10,Thymelaea_pubescens_elliptica,1,1,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",50,2.96183872,Negative,Competition
+10,Polygala_rupestris,1,1,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",50,2.96183872,Negative,Competition
+10,Quercus_rotundifolia,0,1,36.26,63.74,37.112889,-3.454472,"Sierra Nevada, mid-elevation limestones (Granada 2)  ",100,20.62735488,Positive,Facilitation
+11,Salvia_lavandulifolia_vellerea,6,0,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",0,57.67,Negative,Competition
+11,Helianthemum_cinereum_rotundifolium,42,37,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",46.83544304,2.035505888,Negative,Competition
+11,Linum_suffruticosum,1,3,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",75,5.207714583,Positive,Facilitation
+11,Linum_narbonense,1,2,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",66.66666667,1.40350288,Positive,Neutral
+11,Vella_spinosa,1,0,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",0,57.67,Negative,Competition
+11,Erinacea_anthyllis_anthyllis,17,1,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",5.555555556,47.09407525,Negative,Competition
+11,Teucrium_capitatum_capitatum,5,6,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",54.54545455,0.169287052,Negative,Neutral
+11,Thymelaea_pubescens_elliptica,1,1,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",50,1.02009537,Negative,Neutral
+11,Lavandula_lanata,1,0,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",0,57.67,Negative,Competition
+11,Quercus_rotundifolia,0,1,42.33,57.67,37.112667,-3.435472,"Sierra Nevada, high-elevation limestones (Granada 3)  ",100,31.07038148,Positive,Facilitation
+12,Ulex_parviflorus_parviflorus,6,8,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",57.14285714,0.544541626,Negative,Neutral
+12,Cistus_albidus_,21,27,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",56.25,0.723214286,Negative,Neutral
+12,Genista_umbellata_equisetiformis,4,0,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",0,63,Negative,Competition
+12,Thymus_baeticus,1,4,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",80,4.587301587,Positive,Facilitation
+12,Lavandula_stoechas,8,7,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",46.66666667,4.234567901,Negative,Competition
+12,Quercus_rotundifolia,2,0,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",0,63,Negative,Competition
+12,Ruta_angustifolia,1,2,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",66.66666667,0.21340388,Positive,Neutral
+12,Phlomis_purpurea,0,4,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",100,21.73015873,Positive,Facilitation
+12,Halimium_atriplicifolium_atriplicifolium,0,1,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",100,21.73015873,Positive,Facilitation
+12,Ptilostemon_hispanicus,1,0,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",0,63,Negative,Competition
+12,Phagnalon_saxatile,0,1,37,63,36.927583,-3.354028,"Sierra Nevada, low-elevation mica schists (Capileira 1)  ",100,21.73015873,Positive,Facilitation
+13,Ulex_parviflorus_parviflorus,23,29,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",55.76923077,0.291559676,Positive,Neutral
+13,Genista_cinerea,8,6,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",42.85714286,1.569235756,Negative,Neutral
+13,Genista_umbellata_equisetiformis,2,2,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",50,0.068126446,Negative,Neutral
+13,Thymus_zygis_gracilis,6,14,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",70,6.328727833,Positive,Facilitation
+13,Teucrium_compactum,3,4,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",57.14285714,0.533879439,Positive,Neutral
+13,Ptilostemon_hispanicus,0,2,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",100,44.63250578,Positive,Facilitation
+13,Quercus_rotundifolia,7,7,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",50,0.068126446,Negative,Neutral
+13,Paronychia_suffruticosa_suffruticosa,1,2,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",66.66666667,4.214447014,Positive,Facilitation
+13,Ruta_montana,1,1,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",50,0.068126446,Negative,Neutral
+13,Phlomis_lychnitis,2,0,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",0,51.88,Negative,Competition
+13,Helichrysum_italicum_serotinum,0,2,48.12,51.88,36.940833,-3.346333,"Sierra Nevada, mid-elevation mica schists (Capileira 2)  ",100,44.63250578,Positive,Facilitation
+14,Thymus_zygis_gracilis,7,4,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",36.36363636,2.419122118,Negative,Competition
+14,Bupleurum_spinosum,2,5,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",71.42857143,12.65767144,Positive,Facilitation
+14,Dianthus_brachyanthus,10,1,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",9.090909091,30.6054565,Negative,Competition
+14,Arenaria_armerina_armerina,3,1,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",25,10.31938975,Negative,Competition
+14,Cytisus_galianoi,25,4,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",13.79310345,23.48907702,Negative,Competition
+14,Genista_versicolor,8,1,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",11.11111111,27.43284242,Negative,Competition
+14,Artemisia_campestris_glutinosa,1,0,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",0,47.03,Negative,Competition
+14,Helianthemum_apenninum_suffruticosum,4,3,52.97,47.03,36.964472,-3.335639,"Sierra Nevada, high-elevation mica schists (Capileira 3)  ",42.85714286,0.370247432,Negative,Neutral
+15,Rosmarinus_officinalis,6,0,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",0,58.4,Negative,Competition
+15,Phlomis_lychnitis,4,4,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",50,1.208219178,Negative,Neutral
+15,Genista_cinerea,1,2,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",66.66666667,1.170167428,Positive,Neutral
+15,Fumana_ericoides,17,4,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",19.04761905,26.51729258,Negative,Competition
+15,Lavandula_lanata,4,2,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",33.33333333,10.75920852,Negative,Competition
+15,Staehelina_dubia,1,5,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",83.33333333,10.64505327,Positive,Facilitation
+15,Linum_suffruticosum,6,2,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",25,19.10205479,Negative,Competition
+15,Ulex_parviflorus_parviflorus,15,15,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",50,1.208219178,Negative,Neutral
+15,Ptilostemon_hispanicus,1,1,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",50,1.208219178,Negative,Neutral
+15,Helianthemum_cinereum_rotundifolium,18,7,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",28,15.82465753,Negative,Competition
+15,Thymus_membranaceus,11,6,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",35.29411765,9.141811632,Negative,Competition
+15,Cistus_clusii_clusii,1,1,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",50,1.208219178,Negative,Neutral
+15,Phlomis_purpurea,33,21,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",38.88888889,6.518552342,Negative,Competition
+15,Satureja_obovata,2,0,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",0,58.4,Negative,Competition
+15,Argyrolobium_zanonii_zanonii,1,2,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",66.66666667,1.170167428,Positive,Neutral
+15,Fumana_thymifolia,3,0,41.6,58.4,37.029972,-2.778306,"Sierra Nevada, low-elevation limestones (Beires 1)  ",0,58.4,Negative,Competition
+16,Helianthemum_cinereum_rotundifolium,74,6,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",7.5,51.37851648,Negative,Competition
+16,Lavandula_lanata,1,1,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",50,3.676288156,Negative,Competition
+16,Linum_suffruticosum,7,4,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",36.36363636,12.97456564,Negative,Competition
+16,Echinospartum_boissieri,20,1,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",4.761904762,56.34227926,Negative,Competition
+16,Thymus_membranaceus,14,4,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",22.22222222,28.61260013,Negative,Competition
+16,Helianthemum_apenninum_suffruticosum,9,2,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",18.18181818,34.20182323,Negative,Competition
+16,Fumana_ericoides,6,1,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",14.28571429,40.06337046,Negative,Competition
+16,Lithodora_fruticosa,3,0,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",0,65.52,Negative,Competition
+16,Staehelina_dubia,2,6,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",75,1.371648352,Positive,Neutral
+16,Phlomis_lychnitis,2,7,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",77.77777778,2.293240477,Positive,Facilitation
+16,Erinacea_anthyllis_anthyllis,3,0,34.48,65.52,37.033333,-2.803528,"Sierra Nevada, mid-elevation limestones (Beires 2)  ",0,65.52,Negative,Competition
+17,Acer_monspessulanum,1,8,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),88.88888889,17.92644013,Positive,Facilitation
+17,Amelanchier_ovalis,2,0,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),0,56.94,Negative,Competition
+17,Cistus_albidus,106,42,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),28.37837838,14.32676905,Negative,Competition
+17,Cistus_salvifolius,1,0,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),0,56.94,Negative,Competition
+17,Crataegus_monogyna,26,46,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),63.88888889,0.848034015,Positive,Neutral
+17,Daphne_gnidium,3,2,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),40,5.039754127,Negative,Competition
+17,Fraxinus_angustifolia,6,1,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),14.28571429,31.95272374,Negative,Competition
+17,Genista_cinerea,14,14,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),50,0.845865824,Negative,Neutral
+17,Juniperus_oxycedrus,36,70,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),66.03773585,1.453614288,Positive,Neutral
+17,Juniperus_phoenicea,1,0,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),0,56.94,Negative,Competition
+17,Lavandula_latifolia,11,10,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),47.61904762,1.525819341,Negative,Neutral
+17,Olea_europaea,62,80,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),56.33802817,0.006364069,Negative,Neutral
+17,Phillyrea_angustifolia,10,30,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),75,5.728198103,Positive,Facilitation
+17,Phillyrea_latifolia,175,340,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),66.01941748,1.447766451,Positive,Neutral
+17,Phlomis_purpurea,63,88,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),58.2781457,0.031447733,Positive,Neutral
+17,Pinus_halepensis,187,303,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),61.83673469,0.421110128,Positive,Neutral
+17,Pistacia_lentiscus,19,36,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),65.45454545,1.273225927,Positive,Neutral
+17,Pistacia_terebinthus,28,63,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),69.23076923,2.653020869,Positive,Facilitation
+17,Prunus_mahaleb,2,3,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),60,0.164446786,Positive,Neutral
+17,Prunus_spinosa,0,1,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),100,32.56346329,Positive,Facilitation
+17,Quercus_coccifera,7,12,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),63.15789474,0.678999209,Positive,Neutral
+17,Quercus_faginea,116,102,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),46.78899083,1.809676629,Negative,Neutral
+17,Quercus_ilex,38,82,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),68.33333333,2.279733833,Positive,Facilitation
+17,Rhamnus_alaternus,2,14,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),87.5,16.40171409,Positive,Facilitation
+17,Rhamnus_lycioides,30,56,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),65.11627907,1.174069888,Positive,Neutral
+17,Rhamnus_myrtifolius,2,3,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),60,0.164446786,Positive,Neutral
+17,Rosa_sp_Jaen,3,19,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),86.36363636,15.20460795,Positive,Facilitation
+17,Rosmarinus_officinalis,1,1,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),50,0.845865824,Negative,Neutral
+17,Teucrium_fruticans,14,9,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),39.13043478,5.570435779,Negative,Competition
+17,Thymus_mastichina,9,10,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),52.63157895,0.326000913,Negative,Neutral
+17,Ulex_parviflorus,7,6,43.06,56.94,37.636322,-3.742298,Barranco de los Ladrones (Sierra de Jaén),46.15384615,2.04322295,Negative,Competition
+18,Cistus_albidus,110,34,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",23.61111111,30.17532922,Negative,Competition
+18,Cistus_salvifolius,15,11,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",42.30769231,10.55114405,Negative,Competition
+18,Crataegus_monogyna,4,2,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",33.33333333,18.71281302,Negative,Competition
+18,Juniperus_oxycedrus,4,8,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",66.66666667,0.104585416,Negative,Neutral
+18,Juniperus_phoenicea,0,1,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",100,13.53531719,Positive,Facilitation
+18,Lonicera_sp,10,55,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",84.61538462,3.355345441,Positive,Facilitation
+18,Olea_europaea,14,44,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",75.86206897,0.609528559,Positive,Neutral
+18,Phillyrea_angustifolia,14,66,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",82.5,2.48932526,Positive,Facilitation
+18,Phillyrea_latifolia,14,68,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",82.92682927,2.6536744,Positive,Facilitation
+18,Phlomys_purpurea,21,58,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",73.41772152,0.237386158,Positive,Neutral
+18,Pinus_halepensis,65,79,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",54.86111111,3.030821497,Negative,Competition
+18,Pistacia_lentiscus,12,26,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",68.42105263,0.012710815,Negative,Neutral
+18,Pistacia_terebinthus,4,10,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",71.42857143,0.061692442,Positive,Neutral
+18,Quercus_coccifera,8,31,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",79.48717949,1.478658656,Positive,Neutral
+18,Quercus_ilex,9,68,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",88.31168831,5.17829426,Positive,Facilitation
+18,Rhamnus_alaternus,1,19,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",95,9.47822376,Positive,Facilitation
+18,Rhamnus_lycioides,26,126,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",82.89473684,2.64113468,Positive,Facilitation
+18,Rosa_sp_Jaen,0,1,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",100,13.53531719,Positive,Facilitation
+18,Rosmarinus_officinalis,6,0,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",0,69.36,Negative,Competition
+18,Ruscus_aculeatus,0,6,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",100,13.53531719,Positive,Facilitation
+18,Thymus_mastichina,2,3,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",60,1.263114187,Negative,Neutral
+18,Ulex_parviflorus,6,4,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",40,12.42805075,Negative,Competition
+18,Viburnum_tinus,3,9,30.64,69.36,37.662249,-3.721234,"Cañada de las Hazadillas Alto (Zona Recreativa, Jaén)",75,0.458615917,Positive,Neutral
+19,Celtis_australis,4,0,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),0,86.752,Negative,Competition
+19,Cistus_albidus,99,51,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),34,32.0773412,Negative,Competition
+19,Cistus_salvifolius,84,14,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),14.28571429,60.53304322,Negative,Competition
+19,Colutea_hispanica,2,1,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),33.33333333,32.8932353,Negative,Competition
+19,Crataegus_monogyna,0,1,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),100,2.023117669,Positive,Facilitation
+19,Daphne_gnidium,3,4,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),57.14285714,10.10583434,Negative,Competition
+19,Genista_scorpius,1,1,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),50,15.56977942,Negative,Competition
+19,Juniperus_oxycedrus,21,35,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),62.5,6.779780339,Negative,Competition
+19,Juniperus_phoenicea,2,2,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),50,15.56977942,Negative,Competition
+19,Olea_europaea,41,28,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),40.57971014,24.57442307,Negative,Competition
+19,Phillyrea_angustifolia,55,43,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),43.87755102,21.18934866,Negative,Competition
+19,Phillyrea_latifolia,80,87,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),52.09580838,13.84465623,Negative,Competition
+19,Phlomis_purpurea,19,36,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),65.45454545,5.228485454,Negative,Competition
+19,Pinus_halepensis,2,8,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),80,0.525515308,Negative,Neutral
+19,Pistacia_lentiscus,48,32,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),40,25.19537883,Negative,Competition
+19,Pistacia_terebinthus,18,17,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),48.57142857,16.80371674,Negative,Competition
+19,Quercus_coccifera,43,93,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),68.38235294,3.889753932,Negative,Competition
+19,Quercus_ilex,34,71,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),67.61904762,4.219728269,Negative,Competition
+19,Rhamnus_alaternus,1,1,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),50,15.56977942,Negative,Competition
+19,Rhamnus_lycioides,58,72,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),55.38461538,11.34167302,Negative,Competition
+19,Rosmarinus_officinalis,30,6,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),16.66666667,56.62064216,Negative,Competition
+19,Ruscus_aculeatus,0,13,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),100,2.023117669,Positive,Facilitation
+19,Ulex_parviflorus,12,9,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),42.85714286,22.20996039,Negative,Competition
+19,Viburnum_tinus,4,22,13.248,86.752,37.669289,-3.731011,Cañada de las Hazadillas Bajo (Sierra de Jaén),84.61538462,0.05262271,Negative,Neutral
+20,Acer_monspessulanum,1,0,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),0,32.54,Negative,Competition
+20,Amelanchier_ovalis,7,17,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),70.83333333,45.06390221,Positive,Facilitation
+20,Berberis_hispanica,0,1,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),100,139.854075,Positive,Facilitation
+20,Celtis_australis,1,0,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),0,32.54,Negative,Competition
+20,Cistus_albidus,85,62,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),42.17687075,2.854003621,Positive,Facilitation
+20,Cistus_salvifolius,0,1,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),100,139.854075,Positive,Facilitation
+20,Colutea_hispanica,0,1,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),100,139.854075,Positive,Facilitation
+20,Crataegus_monogyna,44,56,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),56,16.91369392,Positive,Facilitation
+20,Daphne_gnidium,19,15,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),44.11764706,4.119296602,Positive,Facilitation
+20,Echinospartum_boissieri,1,0,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),0,32.54,Negative,Competition
+20,Juniperus_oxycedrus,4,10,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),71.42857143,46.47575254,Positive,Facilitation
+20,Juniperus_phoenicea,0,2,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),100,139.854075,Positive,Facilitation
+20,Lavandula_latifolia,9,26,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),74.28571429,53.55576709,Positive,Facilitation
+20,Lonicera_sp,12,37,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),75.51020408,56.74365208,Positive,Facilitation
+20,Phillyrea_angustifolia,13,27,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),67.5,37.55997541,Positive,Facilitation
+20,Phlomys_purpurea,1,0,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),0,32.54,Negative,Competition
+20,Pinus_halepensis,193,328,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),62.95585413,28.43036823,Positive,Facilitation
+20,Pistacia_terebinthus,14,34,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),70.83333333,45.06390221,Positive,Facilitation
+20,Prunus_spinosa,2,5,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),71.42857143,46.47575254,Positive,Facilitation
+20,Quercus_coccifera,3,4,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),57.14285714,18.60173877,Positive,Facilitation
+20,Quercus_faginea,47,103,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),68.66666667,40.10866762,Positive,Facilitation
+20,Quercus_ilex,43,104,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),70.74829932,44.863987,Positive,Facilitation
+20,Rhamnus_lycioides,3,3,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),50,9.368518746,Positive,Facilitation
+20,Rhamnus_myrtifolius,1,0,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),0,32.54,Negative,Competition
+20,Rosa_sp_Jaen,17,26,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),60.46511628,23.96472401,Positive,Facilitation
+20,Rosmarinus_officinalis,44,25,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),36.23188406,0.418869327,Positive,Neutral
+20,Salvia_lavandulifolia,4,4,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),50,9.368518746,Positive,Facilitation
+20,Thymus_mastichina,9,9,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),50,9.368518746,Positive,Facilitation
+20,Ulex_parviflorus,53,48,67.46,32.54,37.646035,-3.711252,Cruz de Chimba (Jaén),47.52475248,6.900516495,Positive,Facilitation
+21,Acer_granatensis,118,197,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",62.53968254,54.10324074,Positive,Facilitation
+21,Amelanchier_ovalis,19,21,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",52.5,28.78316038,Positive,Facilitation
+21,Berberis_hispanica,0,8,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",100,218.521761,Positive,Facilitation
+21,Cistus_albidus,6,1,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",14.28571429,4.890648184,Negative,Competition
+21,Cistus_crispus,9,5,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",35.71428571,4.149408292,Positive,Facilitation
+21,Cistus_populifolius,1,0,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",0,25.44,Negative,Competition
+21,Cistus_salvifolius,59,5,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",7.8125,12.21418067,Negative,Competition
+21,Crataegus_laciniata,69,27,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",28.125,0.283381486,Positive,Neutral
+21,Crataegus_monogyna,363,149,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",29.1015625,0.527006287,Positive,Neutral
+21,Cytissus_scoparius,292,50,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",14.61988304,4.602002005,Negative,Competition
+21,Daphne_laureola,8,28,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",77.77777778,107.6746455,Positive,Facilitation
+21,Fraxinus_angustifolia,0,1,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",100,218.521761,Positive,Facilitation
+21,Ilex_aquifolium,1,0,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",0,25.44,Negative,Competition
+21,Juniperus_communis,8,6,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",42.85714286,11.92440508,Positive,Facilitation
+21,Lavandula_latifolia,7,0,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",0,25.44,Negative,Competition
+21,Malus_sylvestris,40,46,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",53.48837209,30.92418149,Positive,Facilitation
+21,Pinus_nigra,234,140,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",37.43315508,5.653921729,Positive,Facilitation
+21,Pinus_pinaster,0,4,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",100,218.521761,Positive,Facilitation
+21,Prunus_mahaleb,1,0,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",0,25.44,Negative,Competition
+21,Prunus_spinosa,77,51,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",39.84375,8.155189232,Positive,Facilitation
+21,Quercus_faginea,292,298,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",50.50847458,24.7023749,Positive,Facilitation
+21,Quercus_ilex,123,152,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",55.27272727,34.98394719,Positive,Facilitation
+21,Quercus_pyrenaica,23,51,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",68.91891892,74.30882038,Positive,Facilitation
+21,Rosa_sp_Segura,88,47,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",34.81481481,3.45468368,Positive,Facilitation
+21,Sorbus_aria,2,0,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",0,25.44,Negative,Competition
+21,Thymus_mastichina,20,4,74.56,25.44,38.297897,-2.558345,"Nava del Espino (Sierra de Segura, Jaén)",16.66666667,3.025604472,Negative,Competition
+22,Berberis_hispanica,0,8,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),100,192.857076,Positive,Facilitation
+22,Cistus_albidus,20,4,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),16.66666667,4.179363223,Negative,Competition
+22,Crataegus_laciniata,2,8,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),80,101.2781287,Positive,Facilitation
+22,Crataegus_monogyna,17,30,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),63.82978723,48.61276977,Positive,Facilitation
+22,Cytissus_scoparius,5,6,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),54.54545455,27.01202262,Positive,Facilitation
+22,Juniperus_oxycedrus,4,5,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),55.55555556,29.0566284,Positive,Facilitation
+22,Lonicera_sp,0,2,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),100,192.857076,Positive,Facilitation
+22,Pinus_nigra,309,278,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),47.35945486,14.61908606,Positive,Facilitation
+22,Pinus_pinaster,19,16,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),45.71428571,12.31285834,Positive,Facilitation
+22,Prunus_spinosa,15,28,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),65.11627907,52.10294624,Positive,Facilitation
+22,Quercus_faginea,69,201,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),74.44444444,81.02868818,Positive,Facilitation
+22,Quercus_ilex,59,110,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),65.0887574,52.02701516,Positive,Facilitation
+22,Quercus_pyrenaica,8,3,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),27.27272727,0.000278382,Negative,Neutral
+22,Rhamnus_saxatilis,0,2,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),100,192.857076,Positive,Facilitation
+22,Rosa_sp_Segura,10,23,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),69.6969697,65.51239046,Positive,Facilitation
+22,Sorbus_aria,0,2,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),100,192.857076,Positive,Facilitation
+22,Sorbus_torminalis,3,5,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),62.5,45.13229532,Positive,Facilitation
+22,Thymus_zygis,36,8,72.64,27.36,38.293371,-2.598052,Navalcaballo (Jaén),18.18181818,3.078911604,Negative,Competition
+23,Cistus_albidus,47,21,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),30.88235294,10.38438263,Negative,Competition
+23,Crataegus_monogyna,30,49,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),62.02531646,0.975285974,Positive,Neutral
+23,Juniperus_oxycedrus,1,5,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),83.33333333,14.96204029,Positive,Facilitation
+23,Juniperus_phoenicea,1,2,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),66.66666667,2.608239116,Positive,Facilitation
+23,Lonicera_sp,8,10,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),55.55555556,0.012758646,Positive,Neutral
+23,Phlomys_purpurea,3,6,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),66.66666667,2.608239116,Positive,Facilitation
+23,Pinus_halepensis,10,32,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),76.19047619,8.424366737,Positive,Facilitation
+23,Pistacia_terebinthus,14,25,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),64.1025641,1.608781234,Positive,Neutral
+23,Prunus_spinosa,1,2,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),66.66666667,2.608239116,Positive,Facilitation
+23,Quercus_coccifera,1,1,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),50,0.407134503,Negative,Neutral
+23,Quercus_faginea,2,0,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),0,54.72,Negative,Competition
+23,Quercus_ilex,44,65,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),59.63302752,0.441115487,Positive,Neutral
+23,Rhamnus_lycioides,2,4,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),66.66666667,2.608239116,Positive,Facilitation
+23,Rosa_sp_Jaen,20,24,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),54.54545455,0.000556764,Negative,Neutral
+23,Thymus_mastichina,29,15,45.28,54.72,37.650917,-3.704516,Palomares (Jaén),34.09090909,7.777035668,Negative,Competition
+24,Acer_monspessulanum,26,130,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),83.33333333,17.77648289,Positive,Facilitation
+24,Amelanchier_ovalis,2,10,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),83.33333333,17.77648289,Positive,Facilitation
+24,Arbutus_unedo,1,0,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),0,52.72,Negative,Competition
+24,Berberis_hispanica,21,39,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),65,2.860364188,Positive,Facilitation
+24,Bupleurum_gibraltaricum,5,9,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),64.28571429,2.53728655,Positive,Facilitation
+24,Cistus_albidus,14,7,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),33.33333333,7.129037262,Negative,Competition
+24,Colutea_hispanica,1,0,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),0,52.72,Negative,Competition
+24,Cotoneaster_granatensis,1,0,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),0,52.72,Negative,Competition
+24,Crataegus_monogyna,368,397,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),51.89542484,0.012896893,Negative,Neutral
+24,Daphne_gnidium,32,33,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),50.76923077,0.072183243,Negative,Neutral
+24,Fraxinus_angustifolium,1,0,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),0,52.72,Negative,Competition
+24,Genista_cynerea,16,4,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),20,20.30725341,Negative,Competition
+24,Juniperus_oxycedrus,53,54,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),50.46728972,0.096257656,Negative,Neutral
+24,Lavandula_latifolia,46,36,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),43.90243902,1.474760652,Negative,Neutral
+24,Lonicera_sp,24,38,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),61.29032258,1.393217548,Positive,Neutral
+24,Olea_europaea,2,6,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),75,9.415751138,Positive,Facilitation
+24,Phillyrea_latifolia,323,435,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),57.3878628,0.413295582,Positive,Neutral
+24,Pinus_halepensis,592,457,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),43.56530029,1.589691329,Negative,Neutral
+24,Pistacia_terebinthus,44,157,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),78.10945274,12.22732,Positive,Facilitation
+24,Prunus_mahaleb,5,6,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),54.54545455,0.063207214,Positive,Neutral
+24,Prunus_spinosa,11,20,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),64.51612903,2.639390367,Positive,Facilitation
+24,Quercus_faginea,190,236,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),55.39906103,0.136141275,Positive,Neutral
+24,Quercus_ilex,89,95,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),51.63043478,0.022518065,Negative,Neutral
+24,Rhamnus_alaternus,115,298,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),72.15496368,7.164601921,Positive,Facilitation
+24,Rosa_sp_Jaen,51,66,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),56.41025641,0.258307898,Positive,Neutral
+24,Ruscus_aculeatus,10,19,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),65.51724138,3.1063996,Positive,Facilitation
+24,Sorbus_aria,11,9,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),45,1.13047041,Negative,Neutral
+24,Thymus_mastichina,14,7,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),33.33333333,7.129037262,Negative,Competition
+24,Thymus_zygis,6,1,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),14.28571429,28.01961909,Negative,Competition
+24,Ulex_parviflorus,80,28,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),25.92592593,13.61764806,Negative,Competition
+24,Viburnum_tinus,8,18,47.28,52.72,37.613366,-3.716954,Quiebrajano (Jaén),69.23076923,5.170817538,Positive,Facilitation
+25,Berberis_hispanica,2,3,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),60,31.34619756,Positive,Facilitation
+25,Cistus_albidus,36,3,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),7.692307692,16.17713014,Negative,Competition
+25,Cistus_populifolius,18,8,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),30.76923077,0.049466815,Positive,Neutral
+25,Cistus_salvifolius,2,0,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),0,29.56,Negative,Competition
+25,Crataegus_laciniata,48,9,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),15.78947368,6.414999831,Negative,Competition
+25,Crataegus_monogyna,245,101,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),29.19075145,0.004612466,Negative,Neutral
+25,Cytissus_scoparius,3,0,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),0,29.56,Negative,Competition
+25,Daphne_laureola,20,48,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),70.58823529,56.94574057,Positive,Facilitation
+25,Fraxinus_angustifolia,1,4,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),80,86.06879567,Positive,Facilitation
+25,Ilex_aquifolium,11,12,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),52.17391304,17.30003597,Positive,Facilitation
+25,Juniperus_communis,26,13,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),33.33333333,0.481665915,Positive,Neutral
+25,Juniperus_phoenicea,0,1,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),100,167.8549932,Positive,Facilitation
+25,Lavandula_latifolia,2,0,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),0,29.56,Negative,Competition
+25,Ligustrum_vulgare,1,0,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),0,29.56,Negative,Competition
+25,Lonicera_sp,7,18,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),72,60.93212449,Positive,Facilitation
+25,Pinus_nigra,443,149,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),25.16891892,0.652286639,Negative,Neutral
+25,Pinus_pinaster,1,1,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),50,14.13374831,Positive,Facilitation
+25,Prunus_spinosa,49,26,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),34.66666667,0.882207187,Positive,Neutral
+25,Quercus_faginea,153,189,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),55.26315789,22.34953741,Positive,Facilitation
+25,Quercus_ilex,70,99,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),58.57988166,28.48963232,Positive,Facilitation
+25,Quercus_pyrenaica,10,7,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),41.17647059,4.565033455,Positive,Facilitation
+25,Rosa_sp_Segura,59,41,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),41,4.427388363,Positive,Facilitation
+25,Ruscus_aculeatus,1,1,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),50,14.13374831,Positive,Facilitation
+25,Sorbus_tornimalis,0,1,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),100,167.8549932,Positive,Facilitation
+25,Thymus_zygis,81,0,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),0,29.56,Negative,Competition
+25,Viburnum_lantana,1,1,70.44,29.56,38.309877,-2.570446,Reserva(Jaén),50,14.13374831,Positive,Facilitation
+26,Berberis_hispanica,4,4,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),50,3.532054223,Positive,Facilitation
+26,Cistus_crispus,9,5,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),35.71428571,0.182476644,Negative,Neutral
+26,Cistus_salvifolius,40,6,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),13.04347826,16.70819273,Negative,Competition
+26,Crataegus_monogyna,325,188,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),36.64717349,0.076480048,Negative,Neutral
+26,Cytissus_scoparius,46,20,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),30.3030303,1.692251322,Negative,Neutral
+26,Daphne_laureola,9,55,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),85.9375,59.00986721,Positive,Facilitation
+26,Ilex_aquifolium,0,1,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),100,99.04821689,Positive,Facilitation
+26,Juniperus_communis,1,1,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),50,3.532054223,Positive,Facilitation
+26,Lonicera_sp,21,70,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),76.92307692,38.76722893,Positive,Facilitation
+26,Pinus_nigra,838,292,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),25.84070796,4.085836107,Negative,Competition
+26,Prunus_spinosa,141,98,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),41.0041841,0.18226563,Positive,Neutral
+26,Quercus_faginea,142,163,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),53.44262295,5.930279329,Positive,Facilitation
+26,Quercus_ilex,157,155,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),49.67948718,3.340218718,Positive,Facilitation
+26,Quercus_pyrenaica,51,47,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),47.95918367,2.402094035,Positive,Facilitation
+26,Rhamnus_saxatilis,1,0,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),0,38.36,Negative,Competition
+26,Rosa_sp_Segura,69,65,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),48.50746269,2.684332611,Positive,Facilitation
+26,Sorbus_torminalis,6,7,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),53.84615385,6.251849868,Positive,Facilitation
+26,Thymus_zygis,1,0,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),0,38.36,Negative,Competition
+26,Viburnum_lantana,14,35,61.64,38.36,38.284172,-2.595117,Rio Madera (Jaén),71.42857143,28.50704943,Positive,Facilitation

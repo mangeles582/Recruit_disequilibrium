@@ -1,0 +1,955 @@
+community;code;site;lat;long;recruit_species;recruit_sp;genus;sp;sub_sp;nurse;n;canopy_percent;gap_percent
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;9;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;open;14;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;open;2;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;2;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;65;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;open;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;open;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;open;1;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;open;70;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;open;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;open;4;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Paronychia_aretioides;Paronychia aretioides;Paronychia;aretioides;NA;open;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;open;1;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;2;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;open;0;38.47;61.53
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;open;8;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Echinospartum_boissieri;Echinospartum boissieri;Echinospartum;boissieri;NA;open;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;open;11;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;52;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;open;39;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Anthyllis_tejedensis_tejedensis;Anthyllis tejedensis;Anthyllis;tejedensis;tejedensis;open;9;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;open;3;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;1;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;open;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;open;3;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;4;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;4;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;open;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Sideritis_incana;Sideritis incana;Sideritis;incana;NA;open;0;44.74;55.26
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;11;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;open;9;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;open;13;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;51;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;open;54;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;open;2;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Erinacea_anthyllis_anthyllis;Erinacea anthyllis;Erinacea;anthyllis;anthyllis;open;3;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;1;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;open;7;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Ononis_pusilla_pusilla;Ononis pusilla;Ononis;pusilla;pusilla;open;4;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;open;0;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;1;34.9;65.1
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;open;12;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;4;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Lavandula_stoechas;Lavandula stoechas;Lavandula;stoechas;NA;open;10;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;27;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;open;5;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Helichrysum_italicum_serotinum;Helichrysum italicum;Helichrysum;italicum;serotinum;open;2;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Ruta_montana;Ruta montana;Ruta;montana;NA;open;3;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;5;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;open;0;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Clematis_flammula;Clematis flammula;Clematis;flammula;NA;open;1;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Teucrium_compactum;Teucrium compactum;Teucrium;compactum;NA;open;0;59.86;40.14
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;open;6;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;open;10;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;open;6;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;0;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Teucrium_compactum;Teucrium compactum;Teucrium;compactum;NA;open;1;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Adenocarpus_decorticans;Adenocarpus decorticans;Adenocarpus;decorticans;NA;open;5;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;open;1;60.87;39.13
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Cytisus_galianoi;Cytisus galianoi;Cytisus;galianoi;NA;open;51;45.01;54.99
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;open;1;45.01;54.99
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Helichrysum_italicum_serotinum;Helichrysum italicum;Helichrysum;italicum;serotinum;open;2;45.01;54.99
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Genista_versicolor;Genista versicolor;Genista;versicolor;NA;open;6;45.01;54.99
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;9;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;open;8;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;6;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;open;0;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Argyrolobium_zanonii_zanonii;Argyrolobium zanonii;Argyrolobium;zanonii;zanonii;open;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;open;4;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;13;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Helianthemum_syriacum;Helianthemum syriacum;Helianthemum;syriacum;NA;open;9;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;0;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;open;0;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Halimium_atriplicifolium_atriplicifolium;Halimium atriplicifolium;Halimium;atriplicifolium;atriplicifolium;open;1;38.93;61.07
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;2;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;7;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;9;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;open;6;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;open;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;open;9;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;open;3;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;open;2;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;open;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;open;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Anthyllis_tejedensis_tejedensis;Anthyllis tejedensis;Anthyllis;tejedensis;tejedensis;open;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;open;2;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;open;3;33.28;66.72
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Salvia_lavandulifolia_vellerea;Salvia lavandulifolia;Salvia;lavandulifolia;vellerea;open;3;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Teucrium_similatum;Teucrium similatum;Teucrium;similatum;NA;open;23;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;open;3;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Bupleurum_spinosum;Bupleurum spinosum;Bupleurum;spinosum;NA;open;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Santolina_chamaecyparissus_chamaecyparissus;Santolina chamaecyparissus;Santolina;chamaecyparissus;chamaecyparissus;open;1;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;open;2;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;open;2;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;3;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;7;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Teucrium_webbianum;Teucrium webbianum;Teucrium;webbianum;NA;open;8;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;7;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Staehelina_dubia;Staehelina dubia;Staehelina;dubia;NA;open;1;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;16;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;1;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;1;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Anthyllis_tejedensis_tejedensis;Anthyllis tejedensis;Anthyllis;tejedensis;tejedensis;open;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;open;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;open;2;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;open;0;51.66;48.34
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;43;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Teucrium_similatum;Teucrium similatum;Teucrium;similatum;NA;open;5;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Salvia_lavandulifolia_vellerea;Salvia lavandulifolia;Salvia;lavandulifolia;vellerea;open;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;29;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;open;2;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;7;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;10;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Fumana_procumbens;Fumana procumbens;Fumana;procumbens;NA;open;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;3;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Argyrolobium_zanonii_zanonii;Argyrolobium zanonii;Argyrolobium;zanonii;zanonii;open;0;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;open;5;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;open;3;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Thymelaea_pubescens_elliptica;Thymelaea pubescens;Thymelaea;pubescens;elliptica;open;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;open;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;0;63.74;36.26
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Salvia_lavandulifolia_vellerea;Salvia lavandulifolia;Salvia;lavandulifolia;vellerea;open;6;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;42;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Linum_narbonense;Linum narbonense;Linum;narbonense;NA;open;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Vella_spinosa;Vella spinosa;Vella;spinosa;NA;open;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Erinacea_anthyllis_anthyllis;Erinacea anthyllis;Erinacea;anthyllis;anthyllis;open;17;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Teucrium_capitatum_capitatum;Teucrium capitatum;Teucrium;capitatum;capitatum;open;5;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Thymelaea_pubescens_elliptica;Thymelaea pubescens;Thymelaea;pubescens;elliptica;open;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;0;57.67;42.33
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;6;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;21;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;open;4;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Thymus_baeticus;Thymus baeticus;Thymus;baeticus;NA;open;1;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Lavandula_stoechas;Lavandula stoechas;Lavandula;stoechas;NA;open;8;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;2;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Ruta_angustifolia;Ruta angustifolia;Ruta;angustifolia;NA;open;1;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;0;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Halimium_atriplicifolium_atriplicifolium;Halimium atriplicifolium;Halimium;atriplicifolium;atriplicifolium;open;0;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;open;1;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Phagnalon_saxatile;Phagnalon saxatile;Phagnalon;saxatile;NA;open;0;63;37
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;23;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;open;8;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;open;2;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;open;6;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Teucrium_compactum;Teucrium compactum;Teucrium;compactum;NA;open;3;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;open;0;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;open;7;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;open;1;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Ruta_montana;Ruta montana;Ruta;montana;NA;open;1;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Phlomis_lychnitis;Phlomis lychnitis;Phlomis;lychnitis;NA;open;2;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Helichrysum_italicum_serotinum;Helichrysum italicum;Helichrysum;italicum;serotinum;open;0;51.88;48.12
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;open;7;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Bupleurum_spinosum;Bupleurum spinosum;Bupleurum;spinosum;NA;open;2;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;open;10;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;open;3;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Cytisus_galianoi;Cytisus galianoi;Cytisus;galianoi;NA;open;25;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Genista_versicolor;Genista versicolor;Genista;versicolor;NA;open;8;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Artemisia_campestris_glutinosa;Artemisia campestris;Artemisia;campestris;glutinosa;open;1;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;open;4;47.03;52.97
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;6;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Phlomis_lychnitis;Phlomis lychnitis;Phlomis;lychnitis;NA;open;4;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;open;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;17;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;4;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Staehelina_dubia;Staehelina dubia;Staehelina;dubia;NA;open;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;6;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;open;15;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;open;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;18;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Thymus_membranaceus;Thymus membranaceus;Thymus;membranaceus;NA;open;11;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;open;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;33;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Satureja_obovata;Satureja obovata;Satureja;obovata;NA;open;2;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Argyrolobium_zanonii_zanonii;Argyrolobium zanonii;Argyrolobium;zanonii;zanonii;open;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Fumana_thymifolia;Fumana thymifolia;Fumana;thymifolia;NA;open;3;58.4;41.6
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;open;74;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;open;1;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;open;7;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Echinospartum_boissieri;Echinospartum boissieri;Echinospartum;boissieri;NA;open;20;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Thymus_membranaceus;Thymus membranaceus;Thymus;membranaceus;NA;open;14;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;open;9;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;6;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Lithodora_fruticosa;Lithodora fruticosa;Lithodora;fruticosa;NA;open;3;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Staehelina_dubia;Staehelina dubia;Staehelina;dubia;NA;open;2;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Phlomis_lychnitis;Phlomis lychnitis;Phlomis;lychnitis;NA;open;2;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Erinacea_anthyllis_anthyllis;Erinacea anthyllis;Erinacea;anthyllis;anthyllis;open;3;65.52;34.48
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Acer_monspessulanum;Acer monspessulanum;Acer;monspessulanum;NA;open;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;open;2;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;106;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;26;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;open;3;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;open;6;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;open;14;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;36;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;open;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;open;11;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Olea_europaea;Olea europaea;Olea;europaea;NA;open;62;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;open;10;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;open;175;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;63;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;187;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Pistacia_lentiscus;Pistacia lentiscus;Pistacia;lentiscus;NA;open;19;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;open;28;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Prunus_mahaleb;Prunus mahaleb;Prunus;mahaleb;NA;open;2;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;0;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;open;7;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;116;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;38;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;open;2;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;open;30;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rhamnus_myrtifolia;Rhamnus myrtifolia;Rhamnus;myrtifolia;NA;open;2;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rosa_canina;Rosa canina;Rosa;canina;NA;open;3;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Teucrium_fruticans;Teucrium fruticans;Teucrium;fruticans;NA;open;14;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;9;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;open;7;56.94;43.06
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;110;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;15;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;4;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;4;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;open;0;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;10;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Olea_europaea;Olea europaea;Olea;europaea;NA;open;14;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;open;14;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;open;14;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;21;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;65;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Pistacia_lentiscus;Pistacia lentiscus;Pistacia;lentiscus;NA;open;12;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;open;4;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;open;8;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;9;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;open;1;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;open;26;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rosa_canina;Rosa canina;Rosa;canina;NA;open;0;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;6;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;open;0;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;2;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;open;6;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Viburnum_tinus;Viburnum tinus;Viburnum;tinus;NA;open;3;69.36;30.64
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Celtis_australis;Celtis australis;Celtis;australis;NA;open;4;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;99;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;84;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Colutea_hispanica;Colutea hispanica;Colutea;hispanica;NA;open;2;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;0;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;open;3;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Genista_scorpius;Genista scorpius;Genista;scorpius;NA;open;1;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;21;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;open;2;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Olea_europaea;Olea europaea;Olea;europaea;NA;open;41;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;open;55;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;open;80;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;19;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;2;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Pistacia_lentiscus;Pistacia lentiscus;Pistacia;lentiscus;NA;open;48;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;open;18;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;open;43;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;34;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;open;1;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;open;58;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;30;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;open;0;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;open;12;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Viburnum_tinus;Viburnum tinus;Viburnum;tinus;NA;open;4;86.752;13.248
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Acer_monspessulanum;Acer monspessulanum;Acer;monspessulanum;NA;open;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;open;7;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;open;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Celtis_australis;Celtis australis;Celtis;australis;NA;open;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;85;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Colutea_hispanica;Colutea hispanica;Colutea;hispanica;NA;open;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;44;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;open;19;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Echinospartum_boissieri;Echinospartum boissieri;Echinospartum;boissieri;NA;open;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;4;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;open;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;open;9;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;12;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;open;13;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;193;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;open;14;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;2;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;open;3;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;47;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;43;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;open;3;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rhamnus_myrtifolia;Rhamnus myrtifolia;Rhamnus;myrtifolia;NA;open;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rosa_canina;Rosa canina;Rosa;canina;NA;open;17;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;44;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Salvia_lavandulifolia;Salvia lavandulifolia;Salvia;lavandulifolia;NA;open;4;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;9;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;open;53;32.54;67.46
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Acer_granatense;Acer granatense;Acer;granatense;NA;open;118;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;open;19;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;open;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;6;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_crispus;Cistus crispus;Cistus;crispus;NA;open;9;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_populifolius;Cistus populifolius;Cistus;populifolius;NA;open;1;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;59;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Crataegus_laciniata;Crataegus laciniata;Crataegus;laciniata;NA;open;69;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;363;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;open;292;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Daphne_laureola;Daphne laureola;Daphne;laureola;NA;open;8;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;open;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Ilex_aquifolium;Ilex aquifolium;Ilex;aquifolium;NA;open;1;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Juniperus_communis;Juniperus communis;Juniperus;communis;NA;open;8;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;open;7;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Malus_sylvestris;Malus sylvestris;Malus;sylvestris;NA;open;40;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;open;234;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Pinus_pinaster;Pinus pinaster;Pinus;pinaster;NA;open;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Prunus_mahaleb;Prunus mahaleb;Prunus;mahaleb;NA;open;1;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;77;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;292;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;123;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;open;23;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Rosa_canina;Rosa canina;Rosa;canina;NA;open;88;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Sorbus_aria;Sorbus aria;Sorbus;aria;NA;open;2;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;20;25.44;74.56
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;open;0;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;20;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Crataegus_laciniata;Crataegus laciniata;Crataegus;laciniata;NA;open;2;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;17;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;open;5;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;4;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;0;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;open;309;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Pinus_pinaster;Pinus pinaster;Pinus;pinaster;NA;open;19;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;15;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;69;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;59;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;open;8;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;open;0;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Rosa_canina;Rosa canina;Rosa;canina;NA;open;10;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Sorbus_aria;Sorbus aria;Sorbus;aria;NA;open;0;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Sorbus_torminalis;Sorbus torminalis;Sorbus;torminalis;NA;open;3;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;open;36;27.36;72.64
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;47;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;30;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;1;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;open;1;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;8;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;open;3;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;10;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;open;14;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;1;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;open;1;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;2;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;44;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;open;2;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Rosa_canina;Rosa canina;Rosa;canina;NA;open;20;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;29;54.72;45.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Acer_monspessulanum;Acer monspessulanum;Acer;monspessulanum;NA;open;26;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;open;2;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Arbutus_unedo;Arbutus unedo;Arbutus;unedo;NA;open;1;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;open;21;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Bupleurum_gibraltaricum;Bupleurum gibraltaricum;Bupleurum;gibraltaricum;NA;open;5;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;14;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Colutea_hispanica;Colutea hispanica;Colutea;hispanica;NA;open;1;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Cotoneaster_granatensis;Cotoneaster granatensis;Cotoneaster;granatensis;NA;open;1;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;368;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;open;32;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;open;1;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;open;16;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;open;53;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;open;46;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;24;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Olea_europaea;Olea europaea;Olea;europaea;NA;open;2;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;open;323;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;592;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;open;44;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Prunus_mahaleb;Prunus mahaleb;Prunus;mahaleb;NA;open;5;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;11;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;190;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;89;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;open;115;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Rosa_canina;Rosa canina;Rosa;canina;NA;open;51;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;open;10;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Sorbus_aria;Sorbus aria;Sorbus;aria;NA;open;11;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;14;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;open;6;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;open;80;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Viburnum_tinus;Viburnum tinus;Viburnum;tinus;NA;open;8;52.72;47.28
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;open;2;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;open;36;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cistus_populifolius;Cistus populifolius;Cistus;populifolius;NA;open;18;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;2;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Crataegus_laciniata;Crataegus laciniata;Crataegus;laciniata;NA;open;48;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;245;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;open;3;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Daphne_laureola;Daphne laureola;Daphne;laureola;NA;open;20;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;open;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Ilex_aquifolium;Ilex aquifolium;Ilex;aquifolium;NA;open;11;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Juniperus_communis;Juniperus communis;Juniperus;communis;NA;open;26;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;open;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;open;2;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Ligustrum_vulgare;Ligustrum vulgare;Ligustrum;vulgare;NA;open;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;7;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;open;443;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Pinus_pinaster;Pinus pinaster;Pinus;pinaster;NA;open;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;49;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;153;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;70;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;open;10;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Rosa_canina;Rosa canina;Rosa;canina;NA;open;59;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;open;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Sorbus_torminalis;Sorbus torminalis;Sorbus;torminalis;NA;open;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;open;81;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Viburnum_lantana;Viburnum lantana;Viburnum;lantana;NA;open;1;29.56;70.44
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;open;4;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Cistus_crispus;Cistus crispus;Cistus;crispus;NA;open;9;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;40;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;open;325;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;open;46;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Daphne_laureola;Daphne laureola;Daphne;laureola;NA;open;9;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Ilex_aquifolium;Ilex aquifolium;Ilex;aquifolium;NA;open;0;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Juniperus_communis;Juniperus communis;Juniperus;communis;NA;open;1;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;open;21;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;open;838;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;open;141;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;open;142;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;open;157;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;open;51;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;open;1;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Rosa_canina;Rosa canina;Rosa;canina;NA;open;69;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Sorbus_torminalis;Sorbus torminalis;Sorbus;torminalis;NA;open;6;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;open;1;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Viburnum_lantana;Viburnum lantana;Viburnum;lantana;NA;open;14;38.36;61.64
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Asparagus_horridus;Asparagus horridus;Asparagus;horridus;NA;open;3;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Cistus_libanotis;Cistus libanotis;Cistus;libanotis;NA;open;20;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;open;0;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Cytisus_grandiflorus;Cytisus grandiflorus;Cytisus;grandiflorus;NA;open;2;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Erica_scoparia;Erica scoparia;Erica;scoparia;NA;open;0;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Halimium_commutatum;Halimium commutatum;Halimium;commutatum;NA;open;41;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Halimium_halimifolium;Halimium halimifolium;Halimium;halimifolium;NA;open;7;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Helichrysum_picardii;Helichrysum picardii;Helichrysum;picardii;NA;open;30;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Juniperus_phoenicea_turbinata;Juniperus phoenicea;Juniperus;phoenicea;turbinata;open;1;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Lavandula_stoechas;Lavandula stoechas;Lavandula;stoechas;NA;open;40;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;open;0;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Pinus_pinea;Pinus pinea;Pinus;pinea;NA;open;11;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;6;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Stauracanthus_genistoides;Stauracanthus genistoides;Stauracanthus;genistoides;NA;open;0;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;open;12;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Ulex_australis;Ulex australis;Ulex;australis;NA;open;6;58.1071400143278;41.8928599856722
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Artemisia_barrelieri;Artemisia barrelieri;Artemisia;barrelieri;NA;open;9;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Asparagus_horridus;Asparagus horridus;Asparagus;horridus;NA;open;22;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Chamaerops_humilis;Chamaerops humilis;Chamaerops;humilis;NA;open;0;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Cistus_clusii;Cistus clusii;Cistus;clusii;NA;open;87;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Cistus_monspeliensis;Cistus monspeliensis;Cistus;monspeliensis;NA;open;0;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Coronilla_juncea;Coronilla juncea;Coronilla;juncea;NA;open;5;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Dorycnium_pentaphyllum;Dorycnium pentaphyllum;Dorycnium;pentaphyllum;NA;open;4;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;open;2;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Fumana_laevipes;Fumana laevipes;Fumana;laevipes;NA;open;8;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Fumana_thymifolia;Fumana thymifolia;Fumana;thymifolia;NA;open;47;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Helianthemum_syriacum;Helianthemum syriacum;Helianthemum;syriacum;NA;open;12;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Launaea_arborescens;Launaea arborescens;Launaea;arborescens;NA;open;6;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Lavandula_dentata;Lavandula dentata;Lavandula;dentata;NA;open;9;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Paronychia_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;NA;open;3;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Periploca_angustifolia;Periploca angustifolia;Periploca;angustifolia;NA;open;0;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Phagnalon_rupestre;Phagnalon rupestre;Phagnalon;rupestre;NA;open;62;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;open;0;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;open;12;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;open;77;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Stipa_tenacissima;Stipa tenacissima;Stipa;tenacissima;NA;open;11;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Teucrium_carthaginense;Teucrium carthaginense;Teucrium;carthaginense;NA;open;3;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Teucrium_capitatum;Teucrium capitatum;Teucrium;capitatum;NA;open;20;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Teucrium_pseudochamaepitys;Teucrium pseudochamaepitys;Teucrium;pseudochamaepitys;NA;open;0;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Thymelaea_hirsuta;Thymelaea hirsuta;Thymelaea;hirsuta;NA;open;103;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Thymus_hyemalis;Thymus hyemalis;Thymus;hyemalis;NA;open;303;76.34466235;23.65533765
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;8;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;facil;3;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;facil;3;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;3;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;6;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;facil;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;facil;1;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;facil;1;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;facil;8;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;facil;4;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;facil;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Paronychia_aretioides;Paronychia aretioides;Paronychia;aretioides;NA;facil;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;facil;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;0;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;1;38.47;61.53
+1;SNEV01;Sierra Nevada, low-elevation dolomites (Trevenque 1)  ;37.081306;-3.536167;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;facil;0;38.47;61.53
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;facil;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Echinospartum_boissieri;Echinospartum boissieri;Echinospartum;boissieri;NA;facil;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;facil;8;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;21;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;facil;1;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Anthyllis_tejedensis_tejedensis;Anthyllis tejedensis;Anthyllis;tejedensis;tejedensis;facil;7;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;facil;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;facil;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;facil;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;2;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;0;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;facil;5;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;1;44.74;55.26
+2;SNEV02;Sierra Nevada, mid-elevation dolomites (Trevenque 2)  ;37.079667;-3.507389;Sideritis_incana;Sideritis incana;Sideritis;incana;NA;facil;0;44.74;55.26
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;1;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;facil;1;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;facil;0;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;2;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;facil;6;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;facil;0;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Erinacea_anthyllis_anthyllis;Erinacea anthyllis;Erinacea;anthyllis;anthyllis;facil;1;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;0;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;facil;0;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Ononis_pusilla_pusilla;Ononis pusilla;Ononis;pusilla;pusilla;facil;0;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;facil;1;34.9;65.1
+3;SNEV03;Sierra Nevada, high-elevation dolomites (Trevenque 3)  ;37.077306;-3.481778;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;0;34.9;65.1
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;facil;5;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;0;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Lavandula_stoechas;Lavandula stoechas;Lavandula;stoechas;NA;facil;8;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;24;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;facil;7;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Helichrysum_italicum_serotinum;Helichrysum italicum;Helichrysum;italicum;serotinum;facil;2;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Ruta_montana;Ruta montana;Ruta;montana;NA;facil;2;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;2;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;facil;0;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Clematis_flammula;Clematis flammula;Clematis;flammula;NA;facil;1;59.86;40.14
+4;SNEV04;Sierra Nevada, low-elevation mica schists (Ragua 1)  ;37.02325;-3.008972;Teucrium_compactum;Teucrium compactum;Teucrium;compactum;NA;facil;1;59.86;40.14
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;facil;4;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;facil;1;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;facil;2;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;3;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Teucrium_compactum;Teucrium compactum;Teucrium;compactum;NA;facil;3;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Adenocarpus_decorticans;Adenocarpus decorticans;Adenocarpus;decorticans;NA;facil;2;60.87;39.13
+5;SNEV05;Sierra Nevada, mid-elevation mica schists (Ragua 2)  ;37.060722;-3.011806;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;facil;0;60.87;39.13
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Cytisus_galianoi;Cytisus galianoi;Cytisus;galianoi;NA;facil;8;45.01;54.99
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;facil;1;45.01;54.99
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Helichrysum_italicum_serotinum;Helichrysum italicum;Helichrysum;italicum;serotinum;facil;5;45.01;54.99
+6;SNEV06;Sierra Nevada, high-elevation mica schists (Ragua 3)  ;37.102278;-3.024278;Genista_versicolor;Genista versicolor;Genista;versicolor;NA;facil;1;45.01;54.99
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;5;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;facil;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;13;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;facil;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Argyrolobium_zanonii_zanonii;Argyrolobium zanonii;Argyrolobium;zanonii;zanonii;facil;9;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;facil;4;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;2;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Helianthemum_syriacum;Helianthemum syriacum;Helianthemum;syriacum;NA;facil;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;facil;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;1;38.93;61.07
+7;SNEV07;Sierra Nevada, low-elevation dolomites (Padul 1) ;37.0375;-3.573444;Halimium_atriplicifolium_atriplicifolium;Halimium atriplicifolium;Halimium;atriplicifolium;atriplicifolium;facil;0;38.93;61.07
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;5;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;3;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Thymus_granatensis_granatensis;Thymus granatensis;Thymus;granatensis;granatensis;facil;4;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Thymelaea_tartonraira_austroiberica;Thymelaea tartonraira;Thymelaea;tartonraira;austroiberica;facil;0;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Anthyllis_tejedensis_tejedensis;Anthyllis tejedensis;Anthyllis;tejedensis;tejedensis;facil;4;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;facil;1;33.28;66.72
+8;SNEV08;Sierra Nevada, mid-elevation dolomites (Padul 2)  ;37.043028;-3.526278;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;facil;0;33.28;66.72
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Salvia_lavandulifolia_vellerea;Salvia lavandulifolia;Salvia;lavandulifolia;vellerea;facil;3;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Teucrium_similatum;Teucrium similatum;Teucrium;similatum;NA;facil;21;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;facil;1;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Bupleurum_spinosum;Bupleurum spinosum;Bupleurum;spinosum;NA;facil;3;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Santolina_chamaecyparissus_chamaecyparissus;Santolina chamaecyparissus;Santolina;chamaecyparissus;chamaecyparissus;facil;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;facil;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;facil;5;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;6;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;7;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Teucrium_webbianum;Teucrium webbianum;Teucrium;webbianum;NA;facil;2;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;6;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Staehelina_dubia;Staehelina dubia;Staehelina;dubia;NA;facil;5;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;8;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;3;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;6;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Anthyllis_tejedensis_tejedensis;Anthyllis tejedensis;Anthyllis;tejedensis;tejedensis;facil;2;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Alyssum_serpyllifolium_serpyllifolium;Alyssum serpyllifolium;Alyssum;serpyllifolium;serpyllifolium;facil;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;facil;0;51.66;48.34
+9;SNEV09;Sierra Nevada, low-elevation limestones (Granada 1)  ;37.139861;-3.481917;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;facil;1;51.66;48.34
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;10;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Teucrium_similatum;Teucrium similatum;Teucrium;similatum;NA;facil;2;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Salvia_lavandulifolia_vellerea;Salvia lavandulifolia;Salvia;lavandulifolia;vellerea;facil;2;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;30;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Coris_monspeliensis_monspeliensis;Coris monspeliensis;Coris;monspeliensis;monspeliensis;facil;6;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;4;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;20;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Fumana_procumbens;Fumana procumbens;Fumana;procumbens;NA;facil;4;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;4;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Argyrolobium_zanonii_zanonii;Argyrolobium zanonii;Argyrolobium;zanonii;zanonii;facil;6;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;facil;3;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Thymus_mastichina_mastichina;Thymus mastichina;Thymus;mastichina;mastichina;facil;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Thymelaea_pubescens_elliptica;Thymelaea pubescens;Thymelaea;pubescens;elliptica;facil;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;facil;1;63.74;36.26
+10;SNEV10;Sierra Nevada, mid-elevation limestones (Granada 2)  ;37.112889;-3.454472;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;1;63.74;36.26
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Salvia_lavandulifolia_vellerea;Salvia lavandulifolia;Salvia;lavandulifolia;vellerea;facil;0;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;37;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;3;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Linum_narbonense;Linum narbonense;Linum;narbonense;NA;facil;2;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Vella_spinosa;Vella spinosa;Vella;spinosa;NA;facil;0;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Erinacea_anthyllis_anthyllis;Erinacea anthyllis;Erinacea;anthyllis;anthyllis;facil;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Teucrium_capitatum_capitatum;Teucrium capitatum;Teucrium;capitatum;capitatum;facil;6;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Thymelaea_pubescens_elliptica;Thymelaea pubescens;Thymelaea;pubescens;elliptica;facil;1;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;0;57.67;42.33
+11;SNEV11;Sierra Nevada, high-elevation limestones (Granada 3)  ;37.112667;-3.435472;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;1;57.67;42.33
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;8;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;27;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;facil;0;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Thymus_baeticus;Thymus baeticus;Thymus;baeticus;NA;facil;4;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Lavandula_stoechas;Lavandula stoechas;Lavandula;stoechas;NA;facil;7;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;0;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Ruta_angustifolia;Ruta angustifolia;Ruta;angustifolia;NA;facil;2;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;4;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Halimium_atriplicifolium_atriplicifolium;Halimium atriplicifolium;Halimium;atriplicifolium;atriplicifolium;facil;1;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;facil;0;63;37
+12;SNEV12;Sierra Nevada, low-elevation mica schists (Capileira 1)  ;36.927583;-3.354028;Phagnalon_saxatile;Phagnalon saxatile;Phagnalon;saxatile;NA;facil;1;63;37
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;29;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;facil;6;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Genista_umbellata_equisetiformis;Genista umbellata;Genista;umbellata;equisetiformis;facil;2;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;facil;14;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Teucrium_compactum;Teucrium compactum;Teucrium;compactum;NA;facil;4;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;facil;2;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Quercus_rotundifolia;Quercus rotundifolia;Quercus;rotundifolia;NA;facil;7;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Paronychia_suffruticosa_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;suffruticosa;facil;2;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Ruta_montana;Ruta montana;Ruta;montana;NA;facil;1;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Phlomis_lychnitis;Phlomis lychnitis;Phlomis;lychnitis;NA;facil;0;51.88;48.12
+13;SNEV13;Sierra Nevada, mid-elevation mica schists (Capileira 2)  ;36.940833;-3.346333;Helichrysum_italicum_serotinum;Helichrysum italicum;Helichrysum;italicum;serotinum;facil;2;51.88;48.12
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Thymus_zygis_gracilis;Thymus zygis;Thymus;zygis;gracilis;facil;4;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Bupleurum_spinosum;Bupleurum spinosum;Bupleurum;spinosum;NA;facil;5;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Dianthus_brachyanthus;Dianthus brachyanthus;Dianthus;brachyanthus;NA;facil;1;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Arenaria_armerina_armerina;Arenaria armerina;Arenaria;armerina;armerina;facil;1;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Cytisus_galianoi;Cytisus galianoi;Cytisus;galianoi;NA;facil;4;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Genista_versicolor;Genista versicolor;Genista;versicolor;NA;facil;1;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Artemisia_campestris_glutinosa;Artemisia campestris;Artemisia;campestris;glutinosa;facil;0;47.03;52.97
+14;SNEV14;Sierra Nevada, high-elevation mica schists (Capileira 3)  ;36.964472;-3.335639;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;facil;3;47.03;52.97
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;0;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Phlomis_lychnitis;Phlomis lychnitis;Phlomis;lychnitis;NA;facil;4;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;facil;2;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;4;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;2;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Staehelina_dubia;Staehelina dubia;Staehelina;dubia;NA;facil;5;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;2;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Ulex_parviflorus_parviflorus;Ulex parviflorus;Ulex;parviflorus;parviflorus;facil;15;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Ptilostemon_hispanicus;Ptilostemon hispanicus;Ptilostemon;hispanicus;NA;facil;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;7;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Thymus_membranaceus;Thymus membranaceus;Thymus;membranaceus;NA;facil;6;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Cistus_clusii_clusii;Cistus clusii;Cistus;clusii;clusii;facil;1;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;21;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Satureja_obovata;Satureja obovata;Satureja;obovata;NA;facil;0;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Argyrolobium_zanonii_zanonii;Argyrolobium zanonii;Argyrolobium;zanonii;zanonii;facil;2;58.4;41.6
+15;SNEV15;Sierra Nevada, low-elevation limestones (Beires 1)  ;37.029972;-2.778306;Fumana_thymifolia;Fumana thymifolia;Fumana;thymifolia;NA;facil;0;58.4;41.6
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Helianthemum_cinereum_rotundifolium;Helianthemum cinereum;Helianthemum;cinereum;rotundifolium;facil;6;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Lavandula_lanata;Lavandula lanata;Lavandula;lanata;NA;facil;1;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Linum_suffruticosum;Linum suffruticosum;Linum;suffruticosum;NA;facil;4;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Echinospartum_boissieri;Echinospartum boissieri;Echinospartum;boissieri;NA;facil;1;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Thymus_membranaceus;Thymus membranaceus;Thymus;membranaceus;NA;facil;4;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Helianthemum_apenninum_suffruticosum;Helianthemum apenninum;Helianthemum;apenninum;suffruticosum;facil;2;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;1;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Lithodora_fruticosa;Lithodora fruticosa;Lithodora;fruticosa;NA;facil;0;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Staehelina_dubia;Staehelina dubia;Staehelina;dubia;NA;facil;6;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Phlomis_lychnitis;Phlomis lychnitis;Phlomis;lychnitis;NA;facil;7;65.52;34.48
+16;SNEV16;Sierra Nevada, mid-elevation limestones (Beires 2)  ;37.033333;-2.803528;Erinacea_anthyllis_anthyllis;Erinacea anthyllis;Erinacea;anthyllis;anthyllis;facil;0;65.52;34.48
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Acer_monspessulanum;Acer monspessulanum;Acer;monspessulanum;NA;facil;8;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;facil;0;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;42;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;0;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;46;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;facil;2;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;facil;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;facil;14;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;70;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;facil;0;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;facil;10;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Olea_europaea;Olea europaea;Olea;europaea;NA;facil;80;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;facil;30;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;facil;340;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;88;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;303;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Pistacia_lentiscus;Pistacia lentiscus;Pistacia;lentiscus;NA;facil;36;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;facil;63;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Prunus_mahaleb;Prunus mahaleb;Prunus;mahaleb;NA;facil;3;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;facil;12;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;102;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;82;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;facil;14;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;facil;56;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rhamnus_myrtifolia;Rhamnus myrtifolia;Rhamnus;myrtifolia;NA;facil;3;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;19;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;1;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Teucrium_fruticans;Teucrium fruticans;Teucrium;fruticans;NA;facil;9;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;10;56.94;43.06
+17;LADR;Barranco de los Ladrones (Sierra de Ja<e9>n);37.636322;-3.742298;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;facil;6;56.94;43.06
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;34;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;11;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;2;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;8;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;facil;1;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;55;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Olea_europaea;Olea europaea;Olea;europaea;NA;facil;44;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;facil;66;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;facil;68;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;58;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;79;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Pistacia_lentiscus;Pistacia lentiscus;Pistacia;lentiscus;NA;facil;26;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;facil;10;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;facil;31;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;68;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;facil;19;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;facil;126;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;1;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;0;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;facil;6;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;3;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;facil;4;69.36;30.64
+18;CHAZA;Ca<f1>ada de las Hazadillas Alto (Zona Recreativa, Ja<e9>n);37.662249;-3.721234;Viburnum_tinus;Viburnum tinus;Viburnum;tinus;NA;facil;9;69.36;30.64
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Celtis_australis;Celtis australis;Celtis;australis;NA;facil;0;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;51;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;14;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Colutea_hispanica;Colutea hispanica;Colutea;hispanica;NA;facil;1;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;1;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;facil;4;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Genista_scorpius;Genista scorpius;Genista;scorpius;NA;facil;1;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;35;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;facil;2;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Olea_europaea;Olea europaea;Olea;europaea;NA;facil;28;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;facil;43;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;facil;87;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;36;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;8;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Pistacia_lentiscus;Pistacia lentiscus;Pistacia;lentiscus;NA;facil;32;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;facil;17;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;facil;93;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;71;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;facil;1;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;facil;72;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;6;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;facil;13;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;facil;9;86.752;13.248
+19;CHAZB;Ca<f1>ada de las Hazadillas Bajo (Sierra de Ja<e9>n);37.669289;-3.731011;Viburnum_tinus;Viburnum tinus;Viburnum;tinus;NA;facil;22;86.752;13.248
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Acer_monspessulanum;Acer monspessulanum;Acer;monspessulanum;NA;facil;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;facil;17;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;facil;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Celtis_australis;Celtis australis;Celtis;australis;NA;facil;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;62;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Colutea_hispanica;Colutea hispanica;Colutea;hispanica;NA;facil;1;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;56;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;facil;15;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Echinospartum_boissieri;Echinospartum boissieri;Echinospartum;boissieri;NA;facil;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;10;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;facil;2;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;facil;26;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;37;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;facil;27;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;328;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;facil;34;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;5;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;facil;4;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;103;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;104;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;facil;3;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rhamnus_myrtifolia;Rhamnus myrtifolia;Rhamnus;myrtifolia;NA;facil;0;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;26;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;25;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Salvia_lavandulifolia;Salvia lavandulifolia;Salvia;lavandulifolia;NA;facil;4;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;9;32.54;67.46
+20;CHIM;Cruz de Chimba (Ja<e9>n);37.646035;-3.711252;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;facil;48;32.54;67.46
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Acer_granatense;Acer granatense;Acer;granatense;NA;facil;197;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;facil;21;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;facil;8;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;1;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_crispus;Cistus crispus;Cistus;crispus;NA;facil;5;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_populifolius;Cistus populifolius;Cistus;populifolius;NA;facil;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;5;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Crataegus_laciniata;Crataegus laciniata;Crataegus;laciniata;NA;facil;27;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;149;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;facil;50;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Daphne_laureola;Daphne laureola;Daphne;laureola;NA;facil;28;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;facil;1;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Ilex_aquifolium;Ilex aquifolium;Ilex;aquifolium;NA;facil;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Juniperus_communis;Juniperus communis;Juniperus;communis;NA;facil;6;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;facil;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Malus_sylvestris;Malus sylvestris;Malus;sylvestris;NA;facil;46;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;facil;140;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Pinus_pinaster;Pinus pinaster;Pinus;pinaster;NA;facil;4;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Prunus_mahaleb;Prunus mahaleb;Prunus;mahaleb;NA;facil;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;51;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;298;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;152;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;facil;51;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;47;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Sorbus_aria;Sorbus aria;Sorbus;aria;NA;facil;0;25.44;74.56
+21;SEGUR;Nava del Espino (Sierra de Segura, Ja<e9>n);38.297897;-2.558345;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;4;25.44;74.56
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;facil;8;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;4;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Crataegus_laciniata;Crataegus laciniata;Crataegus;laciniata;NA;facil;8;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;30;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;facil;6;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;5;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;2;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;facil;278;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Pinus_pinaster;Pinus pinaster;Pinus;pinaster;NA;facil;16;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;28;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;201;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;110;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;facil;3;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;facil;2;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;23;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Sorbus_aria;Sorbus aria;Sorbus;aria;NA;facil;2;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Sorbus_torminalis;Sorbus torminalis;Sorbus;torminalis;NA;facil;5;27.36;72.64
+22;NCABL;Navalcaballo (Ja<e9>n);38.293371;-2.598052;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;facil;8;27.36;72.64
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;21;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;49;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;5;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;facil;2;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;10;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Phlomis_purpurea;Phlomis purpurea;Phlomis;purpurea;NA;facil;6;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;32;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;facil;25;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;2;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Quercus_coccifera;Quercus coccifera;Quercus;coccifera;NA;facil;1;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;0;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;65;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Rhamnus_lycioides;Rhamnus lycioides;Rhamnus;lycioides;NA;facil;4;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;24;54.72;45.28
+23;PALOM;Palomares (Ja<e9>n);37.650917;-3.704516;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;15;54.72;45.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Acer_monspessulanum;Acer monspessulanum;Acer;monspessulanum;NA;facil;130;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Amelanchier_ovalis;Amelanchier ovalis;Amelanchier;ovalis;NA;facil;10;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Arbutus_unedo;Arbutus unedo;Arbutus;unedo;NA;facil;0;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;facil;39;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Bupleurum_gibraltaricum;Bupleurum gibraltaricum;Bupleurum;gibraltaricum;NA;facil;9;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;7;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Colutea_hispanica;Colutea hispanica;Colutea;hispanica;NA;facil;0;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Cotoneaster_granatensis;Cotoneaster granatensis;Cotoneaster;granatensis;NA;facil;0;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;397;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Daphne_gnidium;Daphne gnidium;Daphne;gnidium;NA;facil;33;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;facil;0;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Genista_cinerea;Genista cinerea;Genista;cinerea;NA;facil;4;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Juniperus_oxycedrus;Juniperus oxycedrus;Juniperus;oxycedrus;NA;facil;54;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;facil;36;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;38;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Olea_europaea;Olea europaea;Olea;europaea;NA;facil;6;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Phillyrea_latifolia;Phillyrea latifolia;Phillyrea;latifolia;NA;facil;435;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;457;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Pistacia_terebinthus;Pistacia terebinthus;Pistacia;terebinthus;NA;facil;157;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Prunus_mahaleb;Prunus mahaleb;Prunus;mahaleb;NA;facil;6;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;20;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;236;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;95;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Rhamnus_alaternus;Rhamnus alaternus;Rhamnus;alaternus;NA;facil;298;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;66;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;facil;19;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Sorbus_aria;Sorbus aria;Sorbus;aria;NA;facil;9;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;7;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;facil;1;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Ulex_parviflorus;Ulex parviflorus;Ulex;parviflorus;NA;facil;28;52.72;47.28
+24;QUIBJ;Quiebrajano (Ja<e9>n);37.613366;-3.716954;Viburnum_tinus;Viburnum tinus;Viburnum;tinus;NA;facil;18;52.72;47.28
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;facil;3;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cistus_albidus;Cistus albidus;Cistus;albidus;NA;facil;3;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cistus_populifolius;Cistus populifolius;Cistus;populifolius;NA;facil;8;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Crataegus_laciniata;Crataegus laciniata;Crataegus;laciniata;NA;facil;9;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;101;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;facil;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Daphne_laureola;Daphne laureola;Daphne;laureola;NA;facil;48;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Fraxinus_angustifolia;Fraxinus angustifolia;Fraxinus;angustifolia;NA;facil;4;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Ilex_aquifolium;Ilex aquifolium;Ilex;aquifolium;NA;facil;12;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Juniperus_communis;Juniperus communis;Juniperus;communis;NA;facil;13;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Juniperus_phoenicea;Juniperus phoenicea;Juniperus;phoenicea;NA;facil;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Lavandula_latifolia;Lavandula latifolia;Lavandula;latifolia;NA;facil;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Ligustrum_vulgare;Ligustrum vulgare;Ligustrum;vulgare;NA;facil;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;18;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;facil;149;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Pinus_pinaster;Pinus pinaster;Pinus;pinaster;NA;facil;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;26;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;189;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;99;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;facil;7;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;41;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Ruscus_aculeatus;Ruscus aculeatus;Ruscus;aculeatus;NA;facil;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Sorbus_torminalis;Sorbus torminalis;Sorbus;torminalis;NA;facil;1;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;facil;0;29.56;70.44
+25;RESER;Reserva(Ja<e9>n);38.309877;-2.570446;Viburnum_lantana;Viburnum lantana;Viburnum;lantana;NA;facil;1;29.56;70.44
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Berberis_hispanica;Berberis hispanica;Berberis;hispanica;NA;facil;4;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Cistus_crispus;Cistus crispus;Cistus;crispus;NA;facil;5;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;6;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Crataegus_monogyna;Crataegus monogyna;Crataegus;monogyna;NA;facil;188;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Cytisus_scoparius;Cytisus scoparius;Cytisus;scoparius;NA;facil;20;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Daphne_laureola;Daphne laureola;Daphne;laureola;NA;facil;55;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Ilex_aquifolium;Ilex aquifolium;Ilex;aquifolium;NA;facil;1;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Juniperus_communis;Juniperus communis;Juniperus;communis;NA;facil;1;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Lonicera_implexa;Lonicera implexa;Lonicera;implexa;NA;facil;70;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Pinus_nigra;Pinus nigra;Pinus;nigra;NA;facil;292;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Prunus_spinosa;Prunus spinosa;Prunus;spinosa;NA;facil;98;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Quercus_faginea;Quercus faginea;Quercus;faginea;NA;facil;163;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Quercus_ilex;Quercus ilex;Quercus;ilex;NA;facil;155;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Quercus_pyrenaica;Quercus pyrenaica;Quercus;pyrenaica;NA;facil;47;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Rhamnus_saxatilis;Rhamnus saxatilis;Rhamnus;saxatilis;NA;facil;0;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Rosa_canina;Rosa canina;Rosa;canina;NA;facil;65;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Sorbus_torminalis;Sorbus torminalis;Sorbus;torminalis;NA;facil;7;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Thymus_zygis;Thymus zygis;Thymus;zygis;NA;facil;0;38.36;61.64
+26;RIOMD;Rio Madera (Ja<e9>n);38.284172;-2.595117;Viburnum_lantana;Viburnum lantana;Viburnum;lantana;NA;facil;35;38.36;61.64
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Asparagus_horridus;Asparagus horridus;Asparagus;horridus;NA;facil;4;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Cistus_libanotis;Cistus libanotis;Cistus;libanotis;NA;facil;44;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Cistus_salviifolius;Cistus salviifolius;Cistus;salviifolius;NA;facil;2;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Cytisus_grandiflorus;Cytisus grandiflorus;Cytisus;grandiflorus;NA;facil;6;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Erica_scoparia;Erica scoparia;Erica;scoparia;NA;facil;5;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Halimium_commutatum;Halimium commutatum;Halimium;commutatum;NA;facil;103;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Halimium_halimifolium;Halimium halimifolium;Halimium;halimifolium;NA;facil;9;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Helichrysum_picardii;Helichrysum picardii;Helichrysum;picardii;NA;facil;32;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Juniperus_phoenicea_turbinata;Juniperus phoenicea;Juniperus;phoenicea;turbinata;facil;15;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Lavandula_stoechas;Lavandula stoechas;Lavandula;stoechas;NA;facil;65;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Phillyrea_angustifolia;Phillyrea angustifolia;Phillyrea;angustifolia;NA;facil;1;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Pinus_pinea;Pinus pinea;Pinus;pinea;NA;facil;7;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;20;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Stauracanthus_genistoides;Stauracanthus genistoides;Stauracanthus;genistoides;NA;facil;3;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Thymus_mastichina;Thymus mastichina;Thymus;mastichina;NA;facil;54;58.1071400143278;41.8928599856722
+27;DNANA;Donana National Park (Huelva);37.01636;-6.5598;Ulex_australis;Ulex australis;Ulex;australis;NA;facil;18;58.1071400143278;41.8928599856722
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Artemisia_barrelieri;Artemisia barrelieri;Artemisia;barrelieri;NA;facil;11;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Asparagus_horridus;Asparagus horridus;Asparagus;horridus;NA;facil;67;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Chamaerops_humilis;Chamaerops humilis;Chamaerops;humilis;NA;facil;1;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Cistus_clusii;Cistus clusii;Cistus;clusii;NA;facil;218;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Cistus_monspeliensis;Cistus monspeliensis;Cistus;monspeliensis;NA;facil;29;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Coronilla_juncea;Coronilla juncea;Coronilla;juncea;NA;facil;11;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Dorycnium_pentaphyllum;Dorycnium pentaphyllum;Dorycnium;pentaphyllum;NA;facil;49;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Fumana_ericoides;Fumana ericoides;Fumana;ericoides;NA;facil;1;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Fumana_laevipes;Fumana laevipes;Fumana;laevipes;NA;facil;46;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Fumana_thymifolia;Fumana thymifolia;Fumana;thymifolia;NA;facil;75;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Helianthemum_syriacum;Helianthemum syriacum;Helianthemum;syriacum;NA;facil;22;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Launaea_arborescens;Launaea arborescens;Launaea;arborescens;NA;facil;14;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Lavandula_dentata;Lavandula dentata;Lavandula;dentata;NA;facil;40;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Paronychia_suffruticosa;Paronychia suffruticosa;Paronychia;suffruticosa;NA;facil;22;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Periploca_angustifolia;Periploca angustifolia;Periploca;angustifolia;NA;facil;5;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Phagnalon_rupestre;Phagnalon rupestre;Phagnalon;rupestre;NA;facil;168;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Pinus_halepensis;Pinus halepensis;Pinus;halepensis;NA;facil;3;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Polygala_rupestris;Polygala rupestris;Polygala;rupestris;NA;facil;55;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Rosmarinus_officinalis;Rosmarinus officinalis;Rosmarinus;officinalis;NA;facil;72;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Stipa_tenacissima;Stipa tenacissima;Stipa;tenacissima;NA;facil;10;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Teucrium_carthaginense;Teucrium carthaginense;Teucrium;carthaginense;NA;facil;12;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Teucrium_capitatum;Teucrium capitatum;Teucrium;capitatum;NA;facil;63;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Teucrium_pseudochamaepitys;Teucrium pseudochamaepitys;Teucrium;pseudochamaepitys;NA;facil;1;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Thymelaea_hirsuta;Thymelaea hirsuta;Thymelaea;hirsuta;NA;facil;207;76.34466235;23.65533765
+28;CALBL;Calblanque National Park (Huelva);37.61004;-0.74371;Thymus_hyemalis;Thymus hyemalis;Thymus;hyemalis;NA;facil;330;76.34466235;23.65533765
