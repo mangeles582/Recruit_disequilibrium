@@ -22,10 +22,9 @@ Before running the scripts, ensure you have R and RStudio installed on your comp
    ```
 2. Install required R packages by running:
    ```
-   install.packages(c("dplyr", "sf", "raster"))
+   install.packages(c("dismo", "stringr", "ggplot", "ggmap", "maps", "tidyverse", "readr", "magrittr", "rgbif", "taxize", "forcats", "sp", "raster", "ade4", "RColorBreewer", "ks", "data.table", "gridExtra", "viridis", "lsmeans", "nlme", "lme4", "lmerTest", "MASS", "DHARMa", "effectsize", "effects", "MuMIn", "parameters"))
    ```
-   (Adjust the package list as needed.)
-
+ 
 ## Script Descriptions
 
 ### Script 01 - Download Species Occurrences
