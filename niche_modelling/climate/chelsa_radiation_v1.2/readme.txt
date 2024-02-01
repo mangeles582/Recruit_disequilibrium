@@ -1,0 +1,2 @@
+Save here chelsa climatic layers for Radiation. Follow code 02 or directly download them from https://envicloud.wsl.ch/#/?prefix=chelsa%2Fchelsa_V1 in exchelsa>srad folder.
+Do not forget to obtain annual mean radiation for further analyses.
