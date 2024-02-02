@@ -42,7 +42,7 @@ Before running the scripts, ensure you have R and RStudio installed on your comp
 ### Script 03a - Multivariate Niche Modelling
 
 - **Purpose**: Characterizes each species niches in the multivariate space.
-- **Advice**: Run from section 4. The rest may take a few hours, especially on slow computers. Heavy files (`all_sp_climate.csv`) are not present and can be obtained running 02 script.
+- **Advice**: Run from section 4. The rest may take a few hours, especially on slow computers. Heavy files (`all_sp_climate.csv` or dudi_sp.RData) are not present and can be obtained running 02 script or downloading from the Dryad repository (https://doi.org/10.5061/dryad.kh18932dg).
 - **Required files**:
   1. `niche_modelling/data/field_raw_data.csv`
   2. `niche_mokdelling/occurrences/clean/all_sp_climate.csv`
