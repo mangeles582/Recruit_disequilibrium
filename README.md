@@ -120,7 +120,7 @@ You can view a copy of this license at [http://creativecommons.org/licenses/by/4
 
 If you use this work, or any part of it, in your research or project, please provide appropriate credit to the authors and a link to the original source and the license. Here is a suggested format for citation:
 
-- Perez-Navarro MA, Lloret F, Molina-Venegas R, Alcantara JM, Verdu M. (2024). Plant canopies promote climatic disequilibrium in Mediterranean recruit communities.
+- Perez-Navarro, M.A., Lloret, F., Molina-Venegas, R., Alcántara, J.M. & Verdú, M. (2024) Plant canopies promote climatic disequilibrium in Mediterranean recruit communities. Ecology Letters, 27, e14391.
 
 
 
